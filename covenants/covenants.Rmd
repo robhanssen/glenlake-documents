@@ -1,0 +1,41 @@
+---
+title: "Protective Covenants of the Glenlake Homeowners Association"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+THIS DECLARATION is made on this the ___ day of March, 2005 by Four
+Bees, Inc., a South Carolina corporation, (herein referred to sometimes as "Four Bees" and sometimes as
+"Declarant") and Poinsett Homes, LLC, a South Carolina limited liability company, (herein referred to
+sometimes as "Poinsett Homes").
+
+```{r child='section00.Rmd'}
+
+```
+
+```{r child='section01.Rmd'}
+
+```
+
+```{r child='section02.Rmd'}
+
+```
+
+```{r child='section03.Rmd'}
+
+```
+
+```{r child='section04.Rmd'}
+
+```
+
+```{r child='section05.Rmd'}
+
+```
+
+```{r child='section06.Rmd'}
+
+```
