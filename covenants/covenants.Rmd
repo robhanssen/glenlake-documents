@@ -1,7 +1,10 @@
 ---
-title: "Protective Covenants of the Glenlake Homeowners Association"
+title: "DECLARATION OF PROTECTIVE COVENANTS, CONDITIONS AND RESTRICTIONS FOR GLENLAKE SUBDIVISION, PHASE NO. 1 PLAT BOOK 157, PAGE 250"
 output: pdf_document
 ---
+
+**Disclaimer**: this document is a transcription of the original deed, registered at the Spartanburg Register of Deeds in deed book xxx, page yyy, and serve only to provide a searchable form on the declaration. This document cannot be used to claim legal standing.
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -37,5 +40,18 @@ sometimes as "Poinsett Homes").
 ```
 
 ```{r child='section06.Rmd'}
+
+```
+
+```{r child='section07.Rmd'}
+
+```
+
+```{r child='section08.Rmd'}
+
+```
+
+
+```{r child='section15-17.Rmd'}
 
 ```
