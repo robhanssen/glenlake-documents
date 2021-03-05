@@ -1,0 +1,3 @@
+# Appendix 3. Example ballot
+
+![](images/2021ballot.png)
