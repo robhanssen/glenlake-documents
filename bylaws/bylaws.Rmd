@@ -1,4 +1,16 @@
-#BYLAWS OF GLENLAKE UPSTATE HOMEOWNERS ASSOCIATION, INC.
+---
+title: "BYLAWS OF GLENLAKE UPSTATE HOMEOWNERS ASSOCIATION, INC."
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Disclaimer**: this document is a transcription of the original Bylaws, registered at the Spartanburg Register of Deeds in deed book 82R, page 914, and serves only to provide a searchable form of the Bylaws. This document cannot be used to claim legal standing. This document has been compiled from the original Bylaws and the subsequent Amendments. The authors of this version believe this is the most recent version of the Bylaws.|
+
 
 ## Binding Arbitration
 This is the First page of the Bylaws of Glenlake Upstate Homeowners Association, Inc. Pursuant to South Carolina Code Section 15-48-1 O et seq; 1976, as amended, these Bylaws are subject to the following:
@@ -7,9 +19,12 @@ THESE BYLAWS ARE SUBJECT TO ARBITRATION UNDER ARTICLE VI HEREIN. THESE BYLAWS AR
 
 In the event other pages, including, but not limited to, cover pages, indexes, or tables of contents. are placed in front of this page, those pages shall not be deemed the first page. This page and only this page shall be deemed or considered the first page of the Bylaws for all legal purposes. 
 
-#BYLAWS OF GLENLAKE UPSTATE HOMEOWNERS ASSOCIATION INC. 
+\newpage
+\tableofcontents
 
-#ARTICLE I NAME,MEMBERSHIP, APPLICABILITY AND DEFINITIONS 
+\newpage
+
+# ARTICLE I. NAME,MEMBERSHIP, APPLICABILITY AND DEFINITIONS 
 
 ## 1.1 Name. 
 The name of the corporation shall be Glenlake Upstate Homeowners Association, Inc. ("Association"). 
@@ -31,7 +46,7 @@ An annual or special meeting shall be held within one year from the date the Dec
 ## 2.3. Special Meetings. 
 The President may call special meetings. In addition, it shall be the President's duty to call a special meeting of the Association if so directed by resolution of the Board or upon a petition signed by at least five (5%) percent of the Total Association Vote (the consent of the Declarant shall not be required). The notice of any special meeting shall state the date, time, and place of such meeting and the purpose thereof. No business shall be transacted at a special meeting, except as stated in the notice. 
 
-## 2. 4. Notice of Meetings. 
+## 2.4. Notice of Meetings. 
 It shall be the duty of the Secretary to mail or to cause to be delivered to the Owner of each Lot (as shown in the records of the Association) and to the Declarant, so long as Declarant owns any real properly within the Community, a notice of each annual or special meeting of the Association stating the time and place where it is to be held and in the notice of a special meeting, the purpose there of. If an Owner wishes notice to be given at an address other than his or her Lot, the Owner shall designate such other address in writing to the Secretary. The mailing or delivery of a notice of meeting in the manner provided in this Section shall be considered service of notice. Notices shall be served not less than ten (l0) nor more than sixty (60) days before a meeting. 
 
 ## 2.5. Waiver of Notice. 
@@ -92,7 +107,7 @@ Vacancies in the Board caused by any reason, excluding the removal of a director
 ## 3.8 Organizational Meetings. 
 The first meeting of the Board following each annual membership meeting shall be held within ten (10) days thereafter at such time and place as shall be fixed by the Board. 
 
-#3.9. Regular Meetings. 
+## 3.9. Regular Meetings. 
 Regular meetings of the Board may be held at such time and place as shall be determined from time to time by a majority of the directors. but at least four (4) such meetings shall be held during each fiscal year with at least one per quarter. Notice of the regular schedule shall constitute sufficient notice of such meetings. So long as the Declarant has the right to appoint directors to the Board, Declarant shall have the option to hold only one (1) meeting per fiscal year. 
 
 ## 3.10. Special Meetings. 
@@ -158,12 +173,17 @@ The Board shall have the power to borrow money without the approval of the membe
 The Board shall not impose a fine (a late charge shall not constitute a fine) or suspend a members right to use any part of the Common Property unless and until the following procedure is followed: 
 
 a. Notice.
-:  Written notice shall be served upon the violator by first-class or certified mail sent to the last address of the member shown on the Association's records, specifying: (I) the nature of the violation, the fine or suspension to be imposed, and the date, not less than fifteen (15) days from the date of the notice, that the fine or suspension will take effect; (2) that the violator may within ten (10) days from the date of the notice, request a hearing regarding the fine or suspension imposed; (3) the name, address, and telephone numbers of a person to contact to challenge the fine or suspension; (4) that any statements, evidence, and witnesses may be produced by the violator at the hearing; and (5) that all rights to have the fine or suspension reconsidered are waived if a hearing is not requested within ten (10) days of the date of the notice. 
+:  Written notice shall be served upon the violator by first-class or certified mail sent to the last address of the member shown on the Association's records, specifying: 
+1. the nature of the violation, the fine or suspension to be imposed, and the date, not less than fifteen (15) days from the date of the notice, that the fine or suspension will take effect; 
+1. that the violator may within ten (10) days from the date of the notice, request a hearing regarding the fine or suspension imposed; 
+1. the name, address, and telephone numbers of a person to contact to challenge the fine or suspension; 
+1. that any statements, evidence, and witnesses may be produced by the violator at the hearing; and 
+1. that all rights to have the fine or suspension reconsidered are waived if a hearing is not requested within ten (10) days of the date of the notice. 
 
-a. Hearing.
+b. Hearing.
 :  If a hearing is requested, it shall be held before the Board in executive session, and the violator shall be given a reasonable opportunity to be heard. The minutes of the meeting shall contain a written statement of the results of the hearing. No fine or suspension shall be imposed prior to the date that is five (5) days after the date of the hearing.
 
-a. Enforcement. 
+b. Enforcement. 
 :  In any action or proceeding to enforce the Declaration, these Bylaws, the rules and regulations of the Association, or decision of the Board, the Association shall be entitled to recover all expenses from the violator, including all attorney's fees. 
 
 # ARTICLE IV OFFICERS 
@@ -186,7 +206,7 @@ If appointed by the Board, the Vice President shall act in the President's absen
 ## 4.6. Secretary. 
 The Secretary shall keep the minutes of all meetings of the Association and of the Board and shall have charge of such books and papers as the Board may direct and shall, in general, perform all duties incident to the office of the secretary of a corporation organized in accordance with South Carolina law. 
 
-## 4. 7. Treasurer
+## 4.7. Treasurer
 The Treasurer shall have the responsibility for the Association's funds and securities and shall be responsible for keeping full and accurate financial records and books of account showing all receipts and disbursements, for preparing all required financial statements and tax returns, and for the deposit of all monies and other valuable effects in the name of the Association or the managing agent in such depositories as may be designated by the Board from time to time. 
 
 ## 4.8. Resignation. 
@@ -194,7 +214,7 @@ Any officer may resign at any time by giving written notice to the Board. Such r
 
 # ARTICLE V. COMMITTEES
 
-# 5.1 General Committees.
+## 5.1 General Committees.
 Committees to perform such tasks and to serve for such periods as may be designated by the Board are hereby authorized. Each committee shall be composed and shall operate in accordance with the terms of the resolution of the Board designating the committee or with rules adopted by the Board. 
 
 ## 5.2 Town home Committee. 
@@ -225,9 +245,9 @@ Roberts Rules of Order (current edition) shall govern the conduct of all Associa
 If there are conflicts or inconsistencies between the provisions of South Carolina law, the Articles of Incorporation, the Declaration, and these Bylaws, the provisions of South Carolina law, the Declaration, the Articles of Incorporation, and the Bylaws (in that order) shall prevail. 
 
 ## 6.4. Amendment.
-These Bylaws m ay be amended by the Board if such amendment is necessary: 
+These Bylaws may be amended by the Board if such amendment is necessary: 
 
-a. to bring any pr vision hereof into compliance with any applicable governmental stature, rule, regulation, or judicial determination; 
+a. to bring any prvision hereof into compliance with any applicable governmental statute, rule, regulation, or judicial determination; 
 a. to enable any title insurance company to issue title insurance coverage with respect to the Lots subject to the Declaration; 
 a. to meet the requirements of an institutional or governmental lender or purchaser of mortgage loans, including, for example, the Federal National Mortgage Association or Federal Home Loan Mortgage Corporation, to enable such lender or purchaser to make or purchase Mortgage loans on the Lots subject to the Declaration; or 
 a. to enable any governmental agency or private insurance company to insure or guarantee Mortgage loans on the Lots subject to the Declaration 
