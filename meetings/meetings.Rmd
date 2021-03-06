@@ -1,7 +1,6 @@
 ---
 title: "Board and Association Meetings"
 output: 'pdf_document'
-author: "Rob Hanssen"
 bibliography: ../bibliography/biblio.json
 csl: ../bibliography/numeric.csl
 ---
@@ -11,14 +10,16 @@ knitr::opts_chunk$set(echo = TRUE)
 library(knitr)
 ```
 
-+--------------------------------------+-----------------------+
-| Supercedes Issue No: none \          | Issue No:Original\    |
-| Date: None                           | Date: July 22nd, 2019 |
-+--------------------------------------+-----------------------+
+> Author: Rob Hanssen
+
+> Version: March 5, 2021
 
 # Purpose
 
 The legal manner of conducting Association business is through the open Board and Association meetings. Meetings should be efficient in its use of time and topics for discussion. This guide provides some guidelines based on the experiences of the past years.
+
+\tableofcontents
+\newpage
 
 # Types of meetings
 
@@ -169,4 +170,5 @@ Examples:
 
 Independent whether a motion passes or is rejected, it is preferable that the same motion or a motion of similar content is not discussed in that session to prevent Directors from forcing the matter at hand by making the same or similar motion multiple times.
 
+\newpage
 # References
