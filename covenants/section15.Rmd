@@ -67,7 +67,7 @@ Whenever possible, each provision of this Declaration shall be interpreted in su
 ## 15.8 Captions.
 The captions are inserted only for convenience and are in no way to be construed as defining, limiting, extending, or otherwise modifying or adding to the particular Article or Section to which they refer.
 
-##15.9 Perpetuities.
+## 15.9 Perpetuities.
 If any of the covenants, conditions, restrictions, or other provisions of this Declaration shall be unlawful, void, or voidable for violation of the rule against perpetuities, then such provisions shall continue only until twenty-one (21) years after the death of the last survivor of the now living descendants of Elizabeth II, Queen of England.
 
 ## 15.10 Indemnification.
