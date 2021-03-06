@@ -3,15 +3,15 @@ title: "DECLARATION OF PROTECTIVE COVENANTS, CONDITIONS AND RESTRICTIONS FOR GLE
 output: pdf_document
 ---
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Disclaimer**: this document is a transcription of the original deed, registered at the Spartanburg Register of Deeds in deed book 82R, page 862, and serve only to provide a searchable form on the declaration. This document cannot be used to claim legal standing. This document has been compiled from the original Declaration and the subsequent Amendments 1, 2, 3 and 4 and some of the Supplementary Declarations. The authors of this version believe this is the most recent version of the declaration.|
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-BINDING ARBITRATION
+> **Disclaimer**: this document is a transcription of the original deed, registered at the Spartanburg Register of Deeds in deed book 82R, page 862, and serve only to provide a searchable form on the declaration. This document cannot be used to claim legal standing. This document has been compiled from the original Declaration and the subsequent Amendments 1, 2, 3 and 4 and some of the Supplementary Declarations. The authors of this version believe this is the most recent version of the declaration.
+
+
+# BINDING ARBITRATION
+
 This is the First page of the Covenants, Conditions and Restrictions for Glenlake Subdivision. Pursuant to South Carolina Code Section 15-48-10 et seq., as amended. these Covenants, Conditions and Restrictions are subject to the following:
 
 THESE COVENANTS, CONDITIONS AND RESTRICTIONS ARE SUBJECT TO ARBITRATION UNDER ARTICLE XVII HEREIN. THESE COVENANTS, CONDITIONS AND RESTRICTIONS ARE BINDING ON ALL OWNERS OF LOTS WITHIN GLENLAKE SUBDIVISION, PHASE NO. 1 AND SUBSEQUENTLY INCORPORATED PHASES. INCLUDING ANY PERSON OBTAINING FINANCIAL RIGHTS IN SAID LOTS.
@@ -26,7 +26,7 @@ In the event other pages, including, but not limited to, cover pages, indexes, o
 
 \newpage
 
-## DECLARATION OF PROTECTIVE COVENANTS, CONDITIONS AND RESTRICTIONS FOR GLENLAKE SUBDIVISION, PHASE NO. 1 PLAT BOOK 157, PAGE 250 
+# DECLARATION OF PROTECTIVE COVENANTS, CONDITIONS AND RESTRICTIONS FOR GLENLAKE SUBDIVISION, PHASE NO. 1 PLAT BOOK 157, PAGE 250 
 
 THIS DECLARATION is made on this the \_\_\_ day of March, 2005 by Four Bees, Inc., a South Carolina corporation, (herein referred to sometimes as "Four Bees" and sometimes as "Declarant") and Poinsett Homes, LLC, a South Carolina limited liability company, (herein referred to sometimes as "Poinsett Homes").
 
