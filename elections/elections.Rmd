@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 library(readr)
 library(dplyr)
 library(knitr)
-library(kableExtra)
+
 ```
 
 >Author: Rob Hanssen
