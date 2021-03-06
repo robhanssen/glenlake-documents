@@ -1,7 +1,6 @@
 ---
 title: "Organization of the Annual Meeting and Board elections"
 output: 'pdf_document'
-author: "Rob Hanssen"
 bibliography: ../bibliography/biblio.json
 csl: ../bibliography/numeric.csl
 ---
@@ -14,14 +13,17 @@ library(knitr)
 library(kableExtra)
 ```
 
-+-------------------------+---------------------+
-| Supercedes Issue No: 3\ | Issue No:  4\       |
-| Date: May 18, 2020      | Date: March 1, 2021 |
-+-------------------------+---------------------+
+>Author: Rob Hanssen
+
+>Version: March 5, 2021
 
 # Purpose
 
 Organizing the elections of the Board of Directors and the Annual Meeting are essential parts of the function of the Board of Directors. Board members have a two-year term and their terms are staggered[@by0305b]. Elections take place every year at the Annual Meeting[@by0305b]. This guideline offers a time line to organize the elections and the Annual Meeting in an efficient manner.
+
+\tableofcontents
+\newpage
+
 
 # Background
 
