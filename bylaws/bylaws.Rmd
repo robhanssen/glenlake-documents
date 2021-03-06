@@ -83,13 +83,13 @@ Any action to be taken at a meeting of the members, or which may be taken at a m
 
 Any action to be taken at any annual, regular, or special meeting of members may be taken without a meeting if approved by written ballot as provided herein. The Association shall deliver a written ballot to each member entitled to vote on the matter. The written ballot shall set forth each proposed action and provide an opportunity to vote for or against each proposed action. Approval by written ballot of an action shall be valid only when the number of votes cast by ballot equals or exceeds the quorum required to be present at a meeting held to authorize such action and the number of approvals equals or exceeds the number of votes that would be required to approve the matter at a meeting at which the total number of votes cast was the same as the number of votes cast by ballot. All solicitations for votes by written ballot shall indicate the number of responses needed to meet the quorum requirements; state the percentage of approvals necessary to approve each matter other than election of directors; and specify the time by which a ballot must be received by the Association in order to be counted. A timely written ballot received by the Association may not be revoked without the consent of the Board. The results of each action by written ballot shall be certified by the Secretary and shall be included in the minutes of meetings of members filed in the Association's permanent records.
 
-# ARTICLE III BOARD OF DIRRCTORS: NUMBER, POWERS, MEETINGS
+# ARTICLE III BOARD OF DIRECTORS: NUMBER, POWERS, MEETINGS
 
 # A. Composition and Selection.
 
 ## 3.1. Governing Body;
 
-Composition. The affairs of the Association shall be governed by a Board of Directors. Except as provided in Section 3 .2, the directors must reside in the Community and shall be members or spous es of such members; however, no person and his or her spouse may serve on the Board at the same time.
+Composition. The affairs of the Association shall be governed by a Board of Directors. Except as provided in Section 3.2, the directors must reside in the Community and shall be members or spous es of such members; however, no person and his or her spouse may serve on the Board at the same time.
 
 ## 3.2. Directors Appointed by Declarant.
 
@@ -149,7 +149,7 @@ No director shall receive any compensation from the Association for acting in su
 
 ## 3.14. Open Meetings.
 
-All meetin gs of the Board shall be open to all members, but members other than directors may not participate in any discussion or deliberation, unless expressly so authorized by the Board.
+All meetings of the Board shall be open to all members, but members other than directors may not participate in any discussion or deliberation, unless expressly so authorized by the Board.
 
 ## 3.15. Executive Session.
 
@@ -191,7 +191,7 @@ j.  paying the cost of all services rendered to the Association or its members w
 
 k.  keeping books with detailed accounts of the receipts and expenditures affecting the Association and its administration, and specifying the maintenance and repair expenses and any other expenses incurred; and functions.
 
-l.  contracting with any Person for the performance of various duties and
+l.  contracting with any Person for the performance of various duties
 
 ## 3.19. Management Agent.
 
