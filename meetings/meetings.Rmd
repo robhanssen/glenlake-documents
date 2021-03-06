@@ -12,7 +12,7 @@ library(knitr)
 
 > Author: Rob Hanssen
 
-> Version: March 5, 2021
+> version: `r format(lubridate::today(), format="%b %d, %Y))`
 
 # Purpose
 
