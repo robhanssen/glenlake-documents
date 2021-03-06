@@ -8,11 +8,15 @@ csl: ../bibliography/numeric.csl
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(knitr)
+library(lubridate)
+
+TOTALHOMES =  482
 ```
+
 
 > Author: Rob Hanssen
 
-> version: `r format(lubridate::today(), format="%b %d, %Y))`
+> Version: `r format(lubridate::today(), format="%B %d, %Y")`
 
 # Purpose
 
@@ -29,13 +33,13 @@ The Organizational Meeting[@by0308] is the first board meeting after the electio
 
 ## Regular Meetings of the Board of Directors
 
-There should be at least one meeting per quarter[@by0309], i.e. four meetings per year. If there are no deviations from the schedule set during the Organizational Meeting and communicated via regular mail, no further notice is required[@by0309]. For convenience, the meetings can be announced on the Association website. During regular meetings, a majority of the Board members needs to be present to conduct any business[@by0312].
+There should be at least one meeting per quarter,[@by0309] i.e. four meetings per year. If there are no deviations from the schedule set during the Organizational Meeting and communicated via regular mail, no further notice is required.[@by0309] For convenience, the meetings can be announced on the Association website. During regular meetings, a majority of the Board members needs to be present to conduct any business.[@by0312]
 
 Historically, the Board has met monthly to keep the flow of information within the Board and to and from the homeowners going smoothly.
 
 ## Special Meetings of the Board of Directors
 
-There are restrictions on who can call a Special Meeting of the Board[@by0310]
+There are restrictions on who can call a Special Meeting of the Board:[@by0310]
 
 1)  The President or Vice President
 2)  Any two Directors
@@ -44,17 +48,17 @@ The Special Meeting of the Board must be announced to Directors at least four da
 
 ## Special Meetings of the Association
 
-There are restrictions on who can call a Special Meeting of the Association[@by0203]
+There are restrictions on who can call a Special Meeting of the Association:[@by0203]
 
 1)  The President
 2)  The Board, by passing a resolution
-3)  A homeowner-led petition with at least 5% support from the Total Association Vote (24 owners)
+3)  A homeowner-led petition with at least 5% support from the Total Association Vote (`r TOTALHOMES %/%20` members)
 
-The Special Meeting must be announced at least ten days before the actual meeting, and the meeting notice must include the topics. No other topics than those announced at the notice can be discussed. The quorum for holding a Special Meeting of the Association is 25% of the Total Association Vote (i.e. 25% of 482 = 120) who can be present in person or present by proxy to another person[@by0209].
+The Special Meeting must be announced at least ten days before the actual meeting, and the meeting notice must include the topics. No other topics than those announced at the notice can be discussed. The quorum for holding a Special Meeting of the Association is 25% of the Total Association Vote (i.e. `r TOTALHOMES %/% 4` members) who can be present in person or present by proxy to another person.[@by0209]
 
-The budget is subject to a specific procedure[@cov0507]. After approval of the budget by the Board of Directors, homeowners can petition the Board to reject the approved budget by passing a budget rejection vote with at least 50% support of the Total Association Vote (240 owners) at a Special Meeting of the Association. If the rejection can proceed, the budget will automatically fall back to the budget of the previous year until the Board can approve a new budget.
+The budget is subject to a specific procedure.[@cov0507] After approval of the budget by the Board of Directors, homeowners can petition the Board to reject the approved budget by passing a budget rejection vote with at least 50% support of the Total Association Vote (`r TOTALHOMES %/% 2` members) at a Special Meeting of the Association. If the rejection can proceed, the budget will automatically fall back to the budget of the previous year until the Board can approve a new budget.
 
-Removal of Directors from the Board of Directors[@by0306] can be done at any Regular or Special Meeting of the Association by passing a director removal vote with at least 50% support of the Total Association Vote (i.e. 240 owners). The contested Director must be given ten days notice before the vote and must be given the opportunity to be heard before the vote. If the Director is removed in this manner, a new Director must be elected by the homeowners. Other circumstances under which Directors can be removed from the Board by the remaining Board Members are listed in the Bylaws. A Director removed under these circumstances can be replaced by Board appointment.
+Removal of Directors from the Board of Directors[@by0306] can be done at any Regular or Special Meeting of the Association by passing a director removal vote with at least 50% support of the Total Association Vote (i.e. `r TOTALHOMES %/% 2` members). The contested Director must be given ten days notice before the vote and must be given the opportunity to be heard before the vote. If the Director is removed in this manner, a new Director must be elected by the homeowners. Other circumstances under which Directors can be removed from the Board by the remaining Board Members are listed in the Bylaws. A Director removed under these circumstances can be replaced by Board appointment.
 
 ## Annual Meetings of the Association
 
@@ -103,7 +107,7 @@ The agenda can be setup in a format like this:
 
 ## Call to order
 
-This serves as the official opening of the meeting. This indicates that only Board Directors can request to speak, unless others expressly allowed to do so by the meeting chair[@by0313].
+This serves as the official opening of the meeting. This indicates that only Board Directors can request to speak, unless others expressly allowed to do so by the meeting chair.[@by0313]
 
 ## Reading of the minutes of the previous meeting and vote for approval
 
@@ -141,7 +145,7 @@ The President makes a motion to conclude this session.
 
 # Voting at meetings 
 
-Business is conducted according to Robert's Rules of Order[@by0602]. The implications for the decision-making process are that all voting matters are introduced in the form of a motion by a Director. This motion needs to be seconded by another Director. After discussion, a vote can be held to accept or reject the motion.
+Business is conducted according to Robert's Rules of Order.[@by0602] The implications for the decision-making process are that all voting matters are introduced in the form of a motion by a Director. This motion needs to be seconded by another Director. After discussion, a vote can be held to accept or reject the motion.
 
 ## Making a motion
 
