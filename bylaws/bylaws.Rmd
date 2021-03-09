@@ -87,9 +87,9 @@ Any action to be taken at any annual, regular, or special meeting of members may
 
 # A. Composition and Selection.
 
-## 3.1. Governing Body;
+## 3.1. Governing Body; Composition. 
 
-Composition. The affairs of the Association shall be governed by a Board of Directors. Except as provided in Section 3.2, the directors must reside in the Community and shall be members or spous es of such members; however, no person and his or her spouse may serve on the Board at the same time.
+The affairs of the Association shall be governed by a Board of Directors. Except as provided in Section 3.2, the directors must reside in the Community and shall be members or spous es of such members; however, no person and his or her spouse may serve on the Board at the same time.
 
 ## 3.2. Directors Appointed by Declarant.
 
@@ -143,7 +143,7 @@ The transactions of any Board meeting, however called and noticed or wherever he
 
 At all Board meetin gs, a majority of the directors shall constitute a quorum for the transaction of business. and the votes of a majority of the directors present at a meeting al which a quorum is present shall constitute the decision of the Board. A meeting at which a quorum of directors is present initially may continue to transact business, notwithstanding the withdrawal of directors, if at least a majority of the required quorum for that meeting approves any action taken. If the Bo ard cannot hold a meeting because a quorum is not present, a majority of the directors at such meeting may adjourn the meeting to a time not less than five (5) or more than thirty (30) days from the date of the original meeting. At the reconvened meeting, if a quorum is present the Board may transact, without further notice, any business which it might have transacted at the original meeting. Any amendments to this Section shall comply with the provisions of the South C arolina Nonprofit Corporation Act, S.C. Code Section 33-31-10, *et seq*.
 
-## 3.13. Compensati on.
+## 3.13. Compensation.
 
 No director shall receive any compensation from the Association for acting in such capacity.
 
@@ -283,7 +283,7 @@ The Board of Directors shall delegate to the Townhome Committee the following ri
 
 <!-- -->
 
-a.  The preparation and adoption of an annual budget in which there shall be established the contribution of each townhome Lot Owner to the exterior maintenance of the townhome Residences and their respective grounds ('Townhome Assessments"), including the establishment of reserves;
+a.  The preparation and adoption of an annual budget in which there shall be established the contribution of each townhome Lot Owner to the exterior maintenance of the townhome Residences and their respective grounds ("Townhome Assessments"), including the establishment of reserves;
 b.  The imposition of Townhome Assessments, including special assessments;
 c.  Providing for care, upkeep and exterior maintenance of the townhome Residences, including the maintenance and upkeep of their respective grounds;
 d.  Designating, hiring and dismissing the personnel necessary for the above-described maintenance functions, and contracting with any necessary persons for the performance of such duties;
@@ -293,7 +293,7 @@ g.  Such other rights, powers and duties of the Board, that the Board may delega
 
 <!-- -->
 
-2.  The funds collected from Townhome Assessments and any special Townhome Assessments shall be deposited in a separate account held by the Associaition (the "Townhome Account") and shall be separately accounted for. The Townhome Committee, or its duly authorized designee, shall have exclusive signature authority of the Townhome Account. Except as amended or supplemented hereby or previously amended or supplemented, the aforementioned terms and conditions of the Bylaws of Glen lake Upstate Homeowners Association, Inc., shall remain unchanged and in full force and effect.
+2.  The funds collected from Townhome Assessments and any special Townhome Assessments shall be deposited in a separate account held by the Association (the "Townhome Account") and shall be separately accounted for. The Townhome Committee, or its duly authorized designee, shall have exclusive signature authority of the Townhome Account. Except as amended or supplemented hereby or previously amended or supplemented, the aforementioned terms and conditions of the Bylaws of Glen lake Upstate Homeowners Association, Inc., shall remain unchanged and in full force and effect.
 
 # ARTICLE VI. MISCELLANEOUS
 

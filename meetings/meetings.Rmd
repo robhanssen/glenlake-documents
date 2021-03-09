@@ -66,7 +66,7 @@ The Annual Meeting is covered in another guide.
 
 # Proxies
 
-In case members cannot be physically present at an Association meeting, they can assign a proxy to another person[@by0313] by sending a proxy form to the Secretary of the Board of Directors. Proxies can be assigned to any other member of the Association in good standing. The proxy must be specific in the duration of the assignment and the powers transferred. Examples of both can be found in the table.
+In case members cannot be physically present at an Association meeting, they can assign a proxy to another person[@by0208] by sending a proxy form to the Secretary of the Board of Directors. Proxies can be assigned to any other member of the Association in good standing. The proxy must be specific in the duration of the assignment and the powers transferred. Examples of both can be found in the table.
 
 Proxies can also be revoked at any time by the member issuing the proxy by notifying the Secretary. Proxies will also be revoked automatically in case of:
 
@@ -107,7 +107,7 @@ The agenda can be setup in a format like this:
 
 ## Call to order
 
-This serves as the official opening of the meeting. This indicates that only Board Directors can request to speak, unless others expressly allowed to do so by the meeting chair.[@by0313]
+This serves as the official opening of the meeting. This indicates that only Board Directors can request to speak, unless others expressly allowed to do so by the meeting chair.[@by0314]
 
 ## Reading of the minutes of the previous meeting and vote for approval
 
