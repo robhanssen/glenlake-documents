@@ -25,6 +25,15 @@ library(lubridate)
 ```{r child='annexation.Rmd'}
 
 ```
+\newpage
+```{r child='delinquency.Rmd'}
+
+```
+
+\newpage
+```{r child='vehicles.Rmd'}
+
+```
 
 \newpage
 ```{r child='animals.Rmd'}
@@ -32,11 +41,11 @@ library(lubridate)
 ```
 
 \newpage
-```{r child='snowremoval.Rmd'}
+```{r child='noise.Rmd'}
 
 ```
 
 \newpage
-```{r child='delinquency.Rmd'}
+```{r child='snowremoval.Rmd'}
 
 ```
