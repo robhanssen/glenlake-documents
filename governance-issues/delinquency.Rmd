@@ -1,0 +1,21 @@
+# Delinquency
+
+In 2019 through 2021, members were given the options to pay the annual assessment in one or two installments. There are several scenarios that can occur.
+
+|------------------------------|----------------------------------|
+|Scenario|Consequences|
+|Owners pay the full amount before January 10|None. Owner is current in their payment.|
+|Owners pay half before January 10 and the other half before July 10.|None. Owner is current in their payment.|
+|Owner paid less than half on January 11.|The owners is now delinquent and payment of the remaining amount is due immediately. Late fees and interest are added to the amount payable.|
+|Owner paid half before January 10, but paid less than the remaining half before July 11.|The owners is now delinquent and payment of the remaining amount is due immediately. Late fees and interest are added to the amount payable.|
+|------------------------------|----------------------------------|
+
+Owners can recover from their delinquent state by paying all outstanding sums or agreeing on a payment plan with the management company. During a payment plan, interest will still be collected. All payments will apply to the oldest outstanding debts first. 
+
+As soon as owners are delinquent over 30 days, the Association can start collection proceedings. Typically several reminder letters will be sent until the Board decides to hand collections over to the the attorney. The attorney can file a lien on the delinquent property on behalf of the Association. The costs of the attorney (typically $400-500 to file a lien) will be added to the delinquent amount and is subject to interest.
+
+If Board decides to foreclose on the lien, the attorney will start foreclosure proceedings on behalf of the Association. The costs associated with foreclosure proceedings (typically over $3000) will be added to the delinquent sum and is subject to interest.
+
+If the judge decides in favor of the Association, the property will be sold at the County's Foreclosure Sale to the highest bidder and the owner will be evicted. Note that any mortgage on the property is not removed by this action, and the former owner will still be responsible for paying the Lender.
+
+All of the above also applies to the monthly payments of the Town Home owners and Patio Home owners.

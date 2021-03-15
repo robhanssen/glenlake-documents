@@ -1,0 +1,42 @@
+---
+title: "Governance of the Glenlake Upstate Homeowners Association"
+output: 'pdf_document'
+bibliography: ../bibliography/biblio.json
+csl: ../bibliography/numeric.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(readr)
+library(dplyr)
+library(knitr)
+library(lubridate)
+```
+
+# Governance of the Glenlake Upstate Homeowners Association
+
+## Introduction
+
+
+\newpage
+\tableofcontents
+
+\newpage
+```{r child='annexation.Rmd'}
+
+```
+
+\newpage
+```{r child='animals.Rmd'}
+
+```
+
+\newpage
+```{r child='snowremoval.Rmd'}
+
+```
+
+\newpage
+```{r child='delinquency.Rmd'}
+
+```
