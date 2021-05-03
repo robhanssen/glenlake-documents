@@ -7,11 +7,11 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-> Disclaimer: this document is a transcription of the original Bylaws, registered at the Spartanburg Register of Deeds in deed book 82R, page 914, and serves only to provide a searchable form of the Bylaws. This document cannot be used to claim legal standing. This document has been compiled from the original Bylaws and the Amendment. The authors of this version believe this is the most recent version of the Bylaws.
+> Disclaimer: this document is a transcription of the original Bylaws, registered at the Spartanburg Register of Deeds in deed book 82R, page 914, and serves only to provide a searchable form of the Bylaws. This document cannot be used to claim legal standing. This document has been compiled from the original Bylaws and the Amendment. The editors of this version believe this is the most recent version of the Bylaws.
 
 ## Binding Arbitration
 
-This is the First page of the Bylaws of Glenlake Upstate Homeowners Association, Inc. Pursuant to South Carolina Code Section 15-48-1 O et seq; 1976, as amended, these Bylaws are subject to the following:
+This is the First page of the Bylaws of Glenlake Upstate Homeowners Association, Inc. Pursuant to South Carolina Code Section 15-48-10 *et seq*; 1976, as amended, these Bylaws are subject to the following:
 
 THESE BYLAWS ARE SUBJECT TO ARBITRATION UNDER ARTICLE VI HEREIN. THESE BYLAWS ARE BINDING ON ALL MEMBERS OF THE ASSOCIATION, INCLUDING ANY PERSON OBTAINING FINANCIAL RIGHTS IN THE HOMEOWNERS ASSOCIATION.
 
@@ -93,7 +93,13 @@ The affairs of the Association shall be governed by a Board of Directors. Except
 
 ## 3.2. Directors Appointed by Declarant.
 
-The Declarant shall have the right to appoint or remove any member or members of the Board or any officer or officers of the Association until such time as the first of the following events shall occur: (a) December 31, 2012; (b) when the total votes outstanding in the Class A membership exceed the total votes outstanding in the Class B membership; or (c) the surrender by Declarant in writing of the authority to appoint and remove directors and officers of the Association. Each Owner, by acceptance of a deed to or other conveyance of a Lot, vests in Declarant such authority to appoint and remove directors and officers of the Association. The directors selected by the Declarant need not be Owners or residents in the Community.
+The Declarant shall have the right to appoint or remove any member or members of the Board or any officer or officers of the Association until such time as the first of the following events shall occur: 
+
+a. December 31, 2012; ^[The Fourth Amendment to the Protective Covenants, Conditions and Restrictions changes the date by which the Declarant can annex additional property from March 31, 2012 to December 31st, 2020. Combined with Article 6.4 in this document, this has the effect that the date until which the Declarant can appoint and remove members of the board changes as well to December 31st, 2020 - Ed.] 
+b. when the total votes outstanding in the Class A membership exceed the total votes outstanding in the Class B membership; or 
+c. the surrender by Declarant in writing of the authority to appoint and remove directors and officers of the Association. ^[This happened on November 26, 2019 - Ed.]
+
+Each Owner, by acceptance of a deed to or other conveyance of a Lot, vests in Declarant such authority to appoint and remove directors and officers of the Association. The directors selected by the Declarant need not be Owners or residents in the Community.
 
 ## 3.3. Number of Directors.
 
@@ -141,7 +147,7 @@ The transactions of any Board meeting, however called and noticed or wherever he
 
 ## 3.12. Quorum of Board of Directors.
 
-At all Board meetin gs, a majority of the directors shall constitute a quorum for the transaction of business. and the votes of a majority of the directors present at a meeting al which a quorum is present shall constitute the decision of the Board. A meeting at which a quorum of directors is present initially may continue to transact business, notwithstanding the withdrawal of directors, if at least a majority of the required quorum for that meeting approves any action taken. If the Bo ard cannot hold a meeting because a quorum is not present, a majority of the directors at such meeting may adjourn the meeting to a time not less than five (5) or more than thirty (30) days from the date of the original meeting. At the reconvened meeting, if a quorum is present the Board may transact, without further notice, any business which it might have transacted at the original meeting. Any amendments to this Section shall comply with the provisions of the South C arolina Nonprofit Corporation Act, S.C. Code Section 33-31-10, *et seq*.
+At all Board meetings, a majority of the directors shall constitute a quorum for the transaction of business and the votes of a majority of the directors present at a meeting al which a quorum is present shall constitute the decision of the Board. A meeting at which a quorum of directors is present initially may continue to transact business, notwithstanding the withdrawal of directors, if at least a majority of the required quorum for that meeting approves any action taken. If the Board cannot hold a meeting because a quorum is not present, a majority of the directors at such meeting may adjourn the meeting to a time not less than five (5) or more than thirty (30) days from the date of the original meeting. At the reconvened meeting, if a quorum is present the Board may transact, without further notice, any business which it might have transacted at the original meeting. Any amendments to this Section shall comply with the provisions of the South C arolina Nonprofit Corporation Act, S.C. Code Section 33-31-10, *et seq*.
 
 ## 3.13. Compensation.
 
@@ -313,7 +319,7 @@ If there are conflicts or inconsistencies between the provisions of South Caroli
 
 These Bylaws may be amended by the Board if such amendment is necessary:
 
-a.  to bring any prvision hereof into compliance with any applicable governmental statute, rule, regulation, or judicial determination;
+a.  to bring any provision hereof into compliance with any applicable governmental statute, rule, regulation, or judicial determination;
 b.  to enable any title insurance company to issue title insurance coverage with respect to the Lots subject to the Declaration;
 c.  to meet the requirements of an institutional or governmental lender or purchaser of mortgage loans, including, for example, the Federal National Mortgage Association or Federal Home Loan Mortgage Corporation, to enable such lender or purchaser to make or purchase Mortgage loans on the Lots subject to the Declaration; or
 d.  to enable any governmental agency or private insurance company to insure or guarantee Mortgage loans on the Lots subject to the Declaration
