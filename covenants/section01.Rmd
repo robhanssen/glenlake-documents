@@ -43,7 +43,7 @@ together with improvements located on that property, which the Association owns 
 :  shall mean any plot of land within the Community, whether or not improvements are constructed on that land, which constitutes or will constitute, after the construction of improvements, a single-family dwelling site as shown on a plat recorded in the land records of Spartanburg County, South Carolina. The ownership of each Lot shall include, and there shall pass with each Lot as an appurtenance thereto, whether or not separately described, all of the right, title, and interest of an Owner in the Common Area and membership in the
 association.
 
-"Maintained Single-Family Homes"
+"Maintained Single-Family Homes"^[the definition of the term "Maintained Single-Family Homes" was changed in the Third Amendment to the Covenants - Ed.]
 :  shall mean any and all Lots within the Community or annexed into the Community developed with detached
 single-family homes upon which the Association provides yard and exterior grounds maintenance. Such Lots containing maintained Single-Family Homes shall be subject to all special provisions of the Declaration pertaining to Maintained Single-Family Homes and special Assessments pertaining to Maintained Single-Family Homes.
 
@@ -56,7 +56,7 @@ single-family homes upon which the Association provides yard and exterior ground
 "Mortgagee"
 :  shall mean the holder of a Mortgage.
 
-"Neighborhood"
+"Neighborhood"^[the definition of the term "Neighborhood" was changed in the Second Amendment to the Covenants - Ed.]
 :  shall mean a group of Lots designated as a separate Neighborhood for purposes of sharing Exclusive Common Property or receiving other benefits or services from the Association which are not provided to all Lots. If the Association provides benefits or services to less than all Lots within a particular Neighborhood, then prorated or separate assessments shall be levied against the benefited Lots to cover the expenses of such benefits or services
 
 "Occupant"
