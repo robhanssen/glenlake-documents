@@ -1,0 +1,25 @@
+---
+title: "FOUNDING DOCUMENTS OF THE GLENLAKE UPSTATE HOMEOWNERS ASSOCIATION, INC."
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(lubridate)
+library(readr)
+library(dplyr)
+
+
+```
+
+> Disclaimer: this document is a list of the founding legal documents of the Glenlake Upstate Homeowners Association, registered at the Spartanburg Register of Deeds and serves only to provide a overview of the founding documents. This document cannot be used to claim legal standing. The editors of this version believe this is the most recent version as of `r format(lubridate::today(), format="%B %d, %Y")`
+
+
+```{r dataread, include=FALSE, echo=FALSE}
+foundingdocs <- read_csv("founding_documents_index.csv") %>% arrange(date) %>% mutate(Date = format(date, format="%B %d, %Y")) %>% select(Date, Purpose, "Deed Book", Page)
+```
+
+```{r dataprint, include=TRUE, echo=FALSE}
+knitr::kable(foundingdocs, "pipe")
+```
+
