@@ -12,7 +12,7 @@ library(dplyr)
 
 ```
 
-> Disclaimer: this document is a list of the founding legal documents of the Glenlake Upstate Homeowners Association, registered at the Spartanburg Register of Deeds and serves only to provide a overview of the founding documents. This document cannot be used to claim legal standing. The editors of this version believe this is the most recent version as of `r format(lubridate::today(), format="%B %d, %Y")`
+> Disclaimer: this document is a list of the founding legal documents of the Glenlake Upstate Homeowners Association, registered at the Spartanburg Register of Deeds and serves only to provide a overview of the founding documents. This document cannot be used to claim legal standing. The editors believe this is the most recent version as of `r format(lubridate::today(), format="%B %d, %Y")`
 
 
 ```{r dataread, include=FALSE, echo=FALSE}
