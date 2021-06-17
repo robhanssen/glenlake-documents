@@ -16,7 +16,7 @@ library(dplyr)
 
 
 ```{r dataread, include=FALSE, echo=FALSE}
-foundingdocs <- read_csv("founding_documents_index.csv") %>% arrange(date) %>% mutate(Date = format(date, format="%B %d, %Y")) %>% select(Date, Purpose, "Deed Book", Page)
+foundingdocs <- read_csv("founding_documents_index.csv") %>% arrange(date) %>% mutate(Date = format(date, format="%b %d, %Y")) %>% select(Date, Purpose, "Deed Book", Page)
 ```
 
 ```{r dataprint, include=TRUE, echo=FALSE}
