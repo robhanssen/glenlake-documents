@@ -3,7 +3,7 @@ title: "Court Order in the case around the Glenlake annexation issue"
 output: pdf_document
 header-includes: |
     \usepackage{censor}
-
+ 
 ---
 
 ```{r setup, include=FALSE}
