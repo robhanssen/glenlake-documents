@@ -1,9 +1,15 @@
 ---
-title: "Court Order in the case around the Glenlake annexation issue"
+title: "Court Order in the case of the Glenlake annexation issue"
 output: pdf_document
 header-includes: |
-    \usepackage{censor}
- 
+    \usepackage{censor} 
+    \usepackage{fancyhdr} 
+    \pagestyle{fancy} 
+    \fancypagestyle{plain}{\pagestyle{fancy}}
+    \fancyfoot{}
+    \fancyhead{}
+    \fancyfoot[L]{Court Order in the case of the Glenlake annexation issue} 
+    \fancyfoot[R]{Page \thepage}    
 ---
 
 ```{r setup, include=FALSE}
@@ -38,10 +44,10 @@ In the opinion of the Glenlake Upstate Homeowners Association and its legal coun
 \newpage
 
 STATE OF SOUTH CAROLINA
+
 COUNTY OF SPARTANBURG
-Glenlake Upstate Homeowners Association, Inc., Plaintiff,
-v.
-\censor{Joseph J. Spallone and Tammy J. Spallone}, Defendants.
+
+Glenlake Upstate Homeowners Association, Inc., Plaintiff, v. \blackout{Joseph J. Spallone and Tammy J. Spallone}, Defendants.
 
 IN THE COURT OF COMMON PLEAS
 SEVENTH JUDICIAL CIRCUIT
@@ -209,7 +215,7 @@ Spartanburg, South Carolina
 
 \newpage
 
-**Case Caption:** Glenlake Upstate Homeowners Association, Inc. \censor{VS Joseph J Spallone, defendant,} et al
+**Case Caption:** Glenlake Upstate Homeowners Association, Inc. \blackout{VS Joseph J Spallone, defendant,} et al
 
 **Case Number:** 2019CP4203679
 
