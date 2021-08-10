@@ -7,7 +7,7 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-> Disclaimer: this document is a transcription of the original Bylaws, registered at the Spartanburg Register of Deeds in deed book 82R, page 914, and serves only to provide a searchable form of the Bylaws. This document cannot be used to claim legal standing. This document has been compiled from the original Bylaws and the Amendment. The editors of this version believe this is the most recent version of the Bylaws.
+> Disclaimer: this document is a transcription of the original Bylaws, registered at the Spartanburg Register of Deeds in deed book 82R, page 914, and serves only to provide a searchable form of the Bylaws. This document cannot be used to claim legal standing. This document has been compiled from the original Bylaws and the Amendment. The editors of this version believe this is the most recent version of the declaration as of `r format(lubridate::today(), format="%B %d, %Y")`.
 
 ## Binding Arbitration
 
