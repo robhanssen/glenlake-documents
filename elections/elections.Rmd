@@ -16,6 +16,26 @@ TOTALHOMES = 482
 
 ```
 
+```{r functions, include=FALSE}
+yearstext <- function(t, num_years = 2) {
+
+    this_year <- lubridate::year(lubridate::today())
+
+    evenyears <- this_year  + this_year %% 2 + 2 * 0:(num_years - 1)
+    oddyears <- evenyears - 1
+
+    if (t == "odd") {
+        return(paste0(trimws(paste(oddyears, collapse = ", ")), ", etc."))
+    }
+    else if (t == "even") {
+        return(paste0(trimws(paste(evenyears, collapse = ", ")), ", etc."))
+    }
+    else return("")
+  }
+
+```
+
+
 >Author: Rob Hanssen
 
 >Version: `r format(lubridate::today(), format="%B %d, %Y")`
@@ -30,7 +50,7 @@ Organizing the elections of the Board of Directors and the Annual Meeting are es
 
 # Background
 
-During the first elections after the developer handover in 2018, seven Directors were elected in accordance with the Bylaws,[@by0303] four of those with a term of two years and three with a term of one year. Because of the staggering of terms, during the odd years (*e.g.* 2019, 2021, etc.), three positions are available and during the even years (*e.g.* 2020, 2022, etc.), four positions are available. Due to the Bylaws, one position on the Board of Directors must be filled by a representative of the Town Home owners.[@by0305c]
+During the first elections after the developer handover in 2018, seven Directors were elected in accordance with the Bylaws,[@by0303] four of those with a term of two years and three with a term of one year. Because of the staggering of terms, during the odd years (*e.g.* `r yearstext("odd")`), three positions are available and during the even years (*e.g.* `r yearstext("even")`), four positions are available. Due to the Bylaws, one position on the Board of Directors must be filled by a representative of the Town Home owners.[@by0305c]
 
 Positions that are vacant due to resignation of a Director need to be filled by a vote of the Board of Directors if the term of the vacant position is not due during the elections, however the Board can choose to elicit input in filling the position using the ballot. This will not change the length of the term of the position.[@by0307]
 
