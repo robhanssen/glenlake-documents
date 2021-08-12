@@ -1,6 +1,15 @@
 ---
 title: "DECLARATION OF PROTECTIVE COVENANTS, CONDITIONS AND RESTRICTIONS FOR GLENLAKE SUBDIVISION, PHASE NO. 1 PLAT BOOK 157, PAGE 250"
 output: pdf_document
+header-includes: |
+    \usepackage{censor} 
+    \usepackage{fancyhdr} 
+    \pagestyle{fancy} 
+    \fancypagestyle{plain}{\pagestyle{fancy}}
+    \fancyfoot{}
+    \fancyhead{}
+    \fancyfoot[L]{Declaration of the CC\&R of the Glenlake Homeowners Assocation} 
+    \fancyfoot[R]{Page \thepage}
 ---
 
 ```{r setup, include=FALSE}
