@@ -25,9 +25,20 @@ foundingdocs <- read_csv("founding_documents_index.csv") %>%
                       mutate(Page = formatC(Page , width=3, flag="0")) %>%
                       unite("Deed Book", c("Deed Book", Page), sep=", p.") %>%
                       select(Date, Purpose, "Deed Book")
+
+platbook <- read_csv("platbook_index.csv") %>% 
+                      #rename(Deed_Book = "Deed Book") %>%
+                      arrange(date) %>% 
+                      mutate(Date = format(date, format="%b %d, %Y")) %>%
+                      mutate(Page = formatC(Page , width=3, flag="0")) %>%
+                      unite("Plat Book", c("Plat Book", Page), sep=", p.") %>%
+                      select(Date, Purpose, "Plat Book")
+
 ```
 
 ```{r dataprint, include=TRUE, echo=FALSE}
 knitr::kable(foundingdocs, "pipe")
+
+knitr::kable(platbook, "pipe")
 ```
 
