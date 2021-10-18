@@ -1,0 +1,155 @@
+---
+title: "Board duties and authorities"
+output: 'pdf_document'
+bibliography: ../bibliography/biblio.json
+csl: ../bibliography/numeric.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+library(lubridate)
+
+```
+
+>Version: `r format(lubridate::today(), format="%B %d, %Y")`
+
+# Purpose
+
+This document lists the duties and authorities of the Glenlake Upstate Homeowners association as listed in the Protective Covenants, Conditions and Restrictions and the Bylaws.
+
+\tableofcontents
+
+# Bylaws
+
+## 3.18. Powers.
+
+The Board shall be responsible for the affairs of the Association and shall have all of the powers and duties necessary for the administration of the Association’s affairs and, as provided by law, may do all acts and things as are not by the Declaration, Articles, or these Bylaws directed to be done and exercised exclusively by the members. In addition to the duties imposed by these Bylaws or by any resolution of the Association that may hereafter be adopted, the Board shall have the power to and be responsible for the following, in way of explanation, but not limitation:
+
+a. preparation and adoption of an annual budget in which there shall be established the contribution of each owner to the common expenses;
+a. making assessments to defray the common expenses and establishing the means and methods of collecting such assessments;
+a. providing for the operation, care, upkeep, and maintenance of all areas which are the maintenance responsibility of the Association;
+a. designating, hiring, and dismissing the personnel necessary for the operation of the Association and, where appropriate, providing for the compensation of such personnel and for the purchase of equipment, supplies, and material to be used by such personnel in the performance of their duties;
+a. collecting the assessments, depositing the proceeds thereof in a bank depository which it shall approve and using the proceeds to administer the Association;
+a. making and amending use restrictions and rules and regulations;
+a. opening of bank accounts on behalf of the Association and designating the signatories required;
+a. enforcing by legal means the provisions of the Declaration, these ByLaws, and the rules and regulations adopted by it, and bringing any proceedings which may be instituted on behalf of or against the Owners concerning the Association;
+a. obtaining and carrying insurance against casualties and liabilities, as provided in the Declaration, and paying the premium cost thereof;
+a. paying the cost of all services rendered to the Association or its members which are not directly chargeable to Owners;
+a. keeping books with detailed accounts of the receipts and expenditures affecting the Association and its administration, and specifying the maintenance and repair expenses and any other expenses incurred; and functions.
+a. contracting with any Person for the performance of various duties
+
+## 3.19. Management Agent.
+
+The Board may employ for the Association a professional management agent or agents at a compensation established by the Board to perform such duties and services as the Board shall authorize. 
+
+## 3.20. Borrowing.
+
+The Board shall have the power to borrow money without the approval of the members of the Association provided that the Board shall obtain membership approval in the same manner as for special assessments, so long as the proposed borrowing is for the purpose of modifying, improving, or adding amenities, and the total amount of such borrowing does not exceed ten thousand ($10,000.00) dollars of outstanding debt at any one time.
+
+## 3.21. Fining or Suspension Procedure.
+
+The Board shall not impose a fine (a late charge shall not constitute a fine) or suspend a members right to use any part of the Common Property unless and until the following procedure is followed: 
+
+a. Notice. Written notice shall be served upon the violator by first-class or certified mail sent to the last address of the member shown on the Association’s records, specifying:
+    1. the nature of the violation, the fine or suspension to be imposed, and the date, not less than fifteen (15) days from the date of the notice, that the fine or suspension will take effect;
+    2. that the violator may within ten (10) days from the date of the notice, request a hearing regarding the fine or suspension imposed;
+    3. the name, address, and telephone numbers of a person to contact to challenge the fine or suspension;
+    4. that any statements, evidence, and witnesses may be produced by the violator at the hearing; and
+    5. that all rights to have the fine or suspension reconsidered are waived if a hearing is not requested within ten (10) days of the date of the notice.
+b. Hearing. If a hearing is requested, it shall be held before the Board in executive session, and the violator shall be given a reasonable opportunity to be heard. The minutes of the meeting shall contain a written statement of the results of the hearing. No fine or suspension shall be imposed prior to the date that is five (5) days after the date of the hearing.
+c. Enforcement. In any action or proceeding to enforce the Declaration, these Bylaws, the rules and regulations of the Association, or decision of the Board, the Association shall be entitled to recover all expenses from the violator, including all attorney’s fees.
+
+# Declaration of Protective Covenants, Conditions and Restrictions
+
+## 5.7 Computation of Annual Assessments.
+The Board shall prepare a budget covering the estimated costs of operating the Association during the coming year, which may include a capital contribution or reserve. The Board shall cause the budget and the assessments to be mailed or delivered to each member at least thirty (30) days prior to the end of the current fiscal year. The budget and the assessment shall become effective unless disapproved at a meeting by a majority of the Total Association Vote. In the event the membership disapproves the proposed budget, or the Board fails to establish a budget for the succeeding year, the budget in effect for the then current year shall continue for the succeeding year until changed by the Board. In the event the Board’s budget is disallowed, the Board shall have the right to make a new budget retroactive to the start of the fiscal year.
+
+## 5.8 Special Assessments
+In addition to the other assessments authorized by this Declaration, the Association may levy special assessments from time to time. Special assessments must be approved at a meeting by two-thirds (2/3) of the Total Association Vote. Special assessments shall be paid as determined by the Board, and the Board may permit special assessments to be paid in installments extending beyond the fiscal year in which the special assessment is imposed.
+
+## 5.11 Effect of Nonpayment of Assessment.
+Any assessments (or installments) which are not paid when due shall be delinquent. Any assessment (or
+Installment) which is delinquent for a period of more than ten (10) days shall incur a late charge in an
+amount set by the Board. If the assessment is not paid within thirty (30) days, a lien shall attach to the
+Owner’s Lot. The lien shall cover all assessments then due or which come due until the lien is cancelled
+of record, and any other amounts provided in this Declaration or permitted by law. In the event that the
+assessment remains unpaid after thirty (30) days, the Association may, in its sole discretion, take any or all
+of the following action:
+
+a. Assess an interest charge from the date of delinquency at the rate of eight percent (8%) per annum, or such other rate as shall have been established by the Board of Directors;
+a. Assess a late charge at the rate established by the Board per delinquency or such other charge as shall have been established by the Board of Directors;
+a. Suspend the voting rights of the Owner during any period of delinquency; 
+a. Accelerate all remaining assessments for the fiscal year in question so that unpaid assessments for the remainder of the fiscal year shall be due and payable at once; 
+a. Bring an action at law or in equity against the Owner personally obligated to pay the delinquent assessment by instituting suit to collect such amounts and foreclose its lien against the Lot, and interest, costs of collection and reasonable attorneys’ fees of such action of foreclosure shall be added to the amount of such assessment. The Association shall have the right to foreclose its lien through any method allowed by law. The Association shall have the power to bid on the Lot at any foreclosure sale or to acquire,hold, lease, mortgage, and convey the same. 
+
+No Owner may waive or otherwise escape liability of the assessments provided for herein by non-use of the Common Area or abandonment of such Owner’s Lot.
+
+## 5.12 No Set Off or Deduction.
+
+No Owner may waive or otherwise exempt himself from liability for the assessments provided for in this Declaration. No setoff, diminution, or abatement of any assessment shall be claimed or allowed by reason of any alleged failure of the Association to take some action, for inconvenience or discomfort arising from the making of repairs or improvements which are the responsibility of the Association, or from any action taken by the Association to comply with any law, ordinance, or with any order or directive of any municipal or other governmental authority. The obligation to pay assessments is a separate and Independent covenant on the part of each Owner and is not subject to setoff.
+
+## 6.1 Association’s Responsibility.
+
+a. The Association shall maintain in good repair the Common Area and any Exclusive Common Areas, including (without limitation) maintenance, repair, and replacement of all landscaping and improvements situated on the Common Area and Exclusive Common Areas. The Association shall also maintain all lakes and associated dams, if any, in or about the Community or any Lot thereon to the extent maintenance of such lake is required and the lake is not otherwise maintained by a governmental entity or third party. This is a private gated community and all gates and roadways are to be maintained by the Association.
+a. The Association shall also maintain all Community entry features, Common Areas, Exclusive Common Areas, and operate and maintain street lights (If not maintained and operated by a governmental entity) for the Community including the expenses for water and electricity, if any, provided to all such entry features, Common Areas, Exclusive Common Areas, and street lights; all storm water detention facilities and easements serving the Community (to the extent such facilities and easements are not maintained by a governmental entity); and all property outside of Lots located within the Community which was originally maintained by Declarant.
+a. The Association shall have the right, but not the obligation, to maintain other property not owned by the Association, whether within or without the Community, where the Board has determined that such maintenance would benefit the Owners.
+a. in the event that the Association determines that the need for maintenance, repair, or replacement of property described above is caused through the willful or negligent act of an Owner, or the family, guests, lessees, or invitees of any Owner, and is not covered or paid for by insurance, in whole or in part, then the Association may perform such maintenance, repair, or replacement at such Owner’s sole cost and expense, and all costs thereof shall be an special assessment against such Owner subject to the Association‘s lien and collection rights provided for in this Declaration.
+a. All maintenance shall be performed consistent with the Community-Wide Standard
+a. As to Lots upon which Maintained Single-Family Homes are constructed, in addition to the maintenance of Common Area and the Exclusive Common Area, the Association shall provide yard and exterior grounds maintenance including trees, shrubs, mulched areas and grass. In order to enable the Association to accomplish the foregoing, there is hereby reserved to the Association the right to unobstructed access over and upon each Maintained Single-Family Home Lot in Glenlake at reasonable times to perform such maintenance. All costs associated with such maintenance shall be the exclusive and sole responsibility of the owners of the Maintained SingleFamily Homes Lots in the Community and shall be collected from said Owners as assessments thereon as provided for herein and in Article V of the Declaration.
+a. As to Lots upon which Maintained Single-Family Homes are constructed, Owners may fence in or screen their decks or patio areas; however, any Owner who fences or screens such areas shall first obtain the written approval of the Association. The Owners of such Lots shall not plant any vegetation in the front or back of his/her Residence, except with the prior written approval of the Association and the maintenance of any such plantings shall be at the Owners sole cost and expense. If, in the opinion of the Association, any such Owner fails to maintain his/her plantings in a neat and orderly manner, the Association may maintain the same and separately assess such Owner for the addition cost of such additional maintenance In the event that the Association determines that additional maintenance or repair of the yard and/or exterior grounds of any Maintained Single-Family Home Lot is required as a result of the actions or negligence of the Owner of such Lot, the Association reserves the right to perform such maintenance and/or repair itself and to assess the Owner the cost of the same separately in addition to the regular maintenance assessments described herein.
+
+## 8.1 General.
+This Section sets out certain use restrictions which must be complied with by all Owners and Occupants. These use restrictions may only be amended as provided in this Declaration. In addition, the Board may,from time to time, without consent of the members, promulgate, modify, or delete other use restrictions and rules and regulations applicable to the Community. Such, use restrictions and rules shall be distributed to all Owners and Occupants prior to the date that they are to become effective and shall thereafter be binding upon all Owners and Occupants until and unless overruled, canceled, or modified in a regular or special meeting by a majority of the Total Association Vote.
+
+## 9.1 Insurance on Common area
+
+a. The Board of directors or the duly authorized agent of the Association shall have the authority to, and shall obtain, insurance for all insurable improvements whether or not located on the Common Area which the Association is obligated to maintain. This insurance shall provide, at a minimum fire and extended coverage, including vandalism and malicious mischief, and shall be in an amount sufficient tocover the full replacement cost of any repair or reconstruction in the event of damage or destruction from any such hazard. Alternatively, the Board may purchase “all-risk” coverage in like amounts.
+a. The Board of directors, or the duly authorized agent of the Association, shall have the authority to and shall obtain hazard insurance on the structure of any townhomes. The premiums for said insurance shall be paid out of the Townhome Assessments described elsewhere herein. Nothing in this Declaration shall be construed as creating an obligation of the Association to insure the contents, personal property, or interior of any townhome. After the appointment of the initial Townhome Committee and immediately prior to the termination of Declarant’s right to appoint Directors and Offices, the Board of Directors shall delegate the responsibility and authority to obtain said insurance policy(ies) to the Townhome Committee. Any insurance proceeds received from such policy(ies) of insurance shall be deposited in the Townhome Account described in Article V of the Bylaws and dispersed according to the provisions of this Declaration and the Bylaws.
+
+## 9.2 Liability Insurance.
+
+The Board shall obtain a general commercial liability policy applicable to the Common Area covering the Association and its members for all damage or injury caused by the negligence of the Association or any of Its members or agents. The public liability policy shall have a combined single limit of at least one million ($1,000,000.00) dollars. If available, the Board is also authorized to obtain directors’ and officers’ liability insurance coverage.
+
+## 13.2 Common Areas.
+
+The Common Areas shall be used only for the purposes for which they are intended in the furnishing of services and facilities for the enjoyment of the Owners. There shall be no obstruction or alteration of, nor shall anything be stored, altered or constructed in, or removed from, the Common Area without the prior written consent of the Board.
+
+## 13.3 Insurance.
+
+No use shall be made of the Common Areas which will increase the rate of insurance upon the property without the prior consent of the Board. No Owner shall permit anything to be done or kept on the Common Areas which will result in cancellation of insurance on any part of the Common Areas or which will be in violation of any law.
+
+## 13.4 Nuisances.
+
+No obnoxious or offensive activity shall be allowed upon the Common Areas, nor any use or practice which is the source of annoyance or nuisance to Owners or guests or which interferes with the peaceful possession and proper use of the Common Areas by Owners. The Board shall have the power to adopt reasonable rules and regulations governing the use of the Common Areas and the personal conduct of the members and their guests thereon, and to establish fines for the infraction thereof as herein provided. In addition, the Board may also suspend the right of a member to use the Common Areas, after notice and hearing for a period of sixty (60) days, as a result of such members infraction of such published rules and regulations. 
+
+## 13.5 Lawful Use.
+
+No immoral, improper, offensive or unlawful use shall be made of the Common Areas or any part thereof and all valid laws, zoning ordinances and regulations of all governmental bodies having jurisdiction thereof shall be observed. The responsibility of meeting the requirements of governmental bodies pertaining to maintenance, replacement, modification or repair of the Common Areas shall be as is specified in this Declaration.
+
+
+## 15.1 Enforcement.
+
+Each Owner and Occupant shall comply strictly with the Bylaws, the rules and regulations, the use restrictions, as they may be lawfully amended or modified from time to time, and with the covenants, conditions, and restrictions set forth in this Declaration and any such restrictions which may be placed in the deed to such Owner‘s Lot, if any. The Board may impose fines or other sanctions. which shall be collected as provided herein for the collection of assessments. Failure to comply with this Declaration, the Bylaws, or the rules and regulations shall be grounds for an action to recover sums due for damages or injunctive relief, or both, maintainable by the Board of Directors, on behalf of the Association, or in a proper case, by an aggrieved Owner. Failure by the Association or any Owner to enforce any of the foregoing shall in no event be deemed a waiver of the right to do so thereafter. The Board shall have the right to record in the appropriate land records a notice of lien, a notice of violation of the Declaration, Bylaws, rules and regulations, use restrictions, or design guidelines and to assess the cost of recording and removing such notice against the Owner who is responsible (or whose Occupants are responsible) for violating the foregoing. In the event that any enforcement action as contemplated herein is brought by the Association, the violating Owner shall be responsible for the actual attorney’s fees and costs incurred by the Association in such action. Any such attorney’s fees and costs assessed against an Owner shall constitute a lien on that Owner’s Lot and shall be collected as provided herein for the collection of assessments.
+
+## 15.2 Self-Help.
+
+In addition to any other remedies provided for herein, the Association or its duly authorized agent shall have the power to enter upon any Lot or any other portion of the Community to abate or remove, using such force as may be reasonably necessary, any structure, thing, or condition which violates this Declaration, the Bylaws, the rules and regulations, or the use restriction. Unless an emergency situation exists, the Board shall give the violating Lot Owner ten (10) days written notice of its intent to exercise self-help. Notwithstanding the foregoing,vehicles may be towed after reasonable notice. All costs of self-help, including reasonable attorney’s fees, shall be assessed against the violating Lot Owner and shall be collected as provided for herein for the collection of assessments.
+
+## 15.10 Indemnification.
+
+To the fullest extent allowed by applicable South Carolina law, the Association shall indemnify every officer of the Association and director of the Association against any and all expenses, including, without limitation, attorney’s fees, imposed upon or reasonably incurred by any officer or director in connection with any action, suit, or other proceeding to which such officer or director may be a party by reason of being or having been an officer or director. The officers and directors shall not be liable for any mistake of judgment, negligent or otherwise, except for their own individual willful misfeasance, malfeasance, misconduct, or bad faith. The officers and directors shall have no personal liability with respect to any contract or other commitment made by them, in good faith, on behalf of the Association (except to the extent that such officers or directors may also be members of the Association), and the Association shall indemnify and forever hold each such officer and director free and harmless against any and all liability to others on account of any such contract or commitment. Any right to indemnification provided for herein shall not be exclusive of any other rights to which any officer or director, or former officer of director. may be entitled. This indemnification shall also include attorney’s fees and expenses incurred in enforcing this indemnification. The Association shall maintain adequate general liability and officers’ and directors’ liability insurance to fund this obligation, if such coverage is reasonably available.
+
+## 15.11 Books and Records.
+
+a. Inspection by Members and Mortgagees. This Declaration, the Bylaws, copies of rules and use restrictions, membership register, books of account, and minutes of meetings of the members of the Board and of committees shall be made available for inspection and copying by Declarant or any member of the Association or by the duly appointed representative of any member and by holders, insurers, or guarantors of any first Mortgage at any reasonable time and for a purpose reasonably related to such Person‘s interest as a member or holder, insurer, or guarantor of a first Mortgage at the office of the Association or at such other reasonable place as the Board shall prescribe.
+a. Rules for Inspection. The Board shall establish reasonable rules with respect to: (1) notice to be given to the custodian of the records; (2) hours and days of the work week when such an inspection may be made; and (3) payment of the cost of reproducing copies of documents. 
+a. Inspection by Directors. Every director shall have the absolute right at any reasonable time to inspect all books, records, and documents of the Association and the physical properties owned or controlled by the Association. The right of inspection by a director includes the right to make extra copies of documents at the reasonable expense of the Association.
+
+## 15.12 Financial Review.
+
+A review of the books and records of the Association shall be made annually in the manner as the Board may decide provided that after having received the Board’s financial statements at their annual meeting, by a majority of the Total Association Vote, the Owners may require that the accounts of the Association be audited as a common expense by a certified public accountant. Upon written request of any institutional holder of a first Mortgage and upon payment of all necessary costs, such holder shall be entitled to receive a copy of audited financial statements within ninety (90) days of the date of the request. 
+
+## 15.15 Implied rights.
+
+The Association may exercise any right or privilege given to it expressly by the Declaration, the By-Laws, the Articles of incorporation, any use restriction or rule, and every other right orprivilege reasonably to be implied from the existence of any right or privilege given to it therein or reasonably necessary to effectuate any such right or privilege.
