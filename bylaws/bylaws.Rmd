@@ -25,7 +25,7 @@ In the event other pages, including, but not limited to, cover pages, indexes, o
 
 # ARTICLE I. NAME, MEMBERSHIP, APPLICABILITY AND DEFINITIONS
 
-## 1.1 Name.
+## 1.1. Name.
 
 The name of the corporation shall be Glenlake Upstate Homeowners Association, Inc. ("Association").
 
@@ -37,7 +37,7 @@ The Association shall have two (2) classes of membership, as is more fully set f
 
 The capitalized words used in these Bylaws shall have the same meaning as set forth in the Declaration, unless the context shall correspond otherwise.
 
-# ARTICLE II ASSOCIATION: MEETINGS, QUORUM, VOTING, PROXIES
+# ARTICLE II. ASSOCIATION: MEETINGS, QUORUM, VOTING, PROXIES
 
 ## 2.1. Place of Meetings.
 
@@ -83,7 +83,7 @@ Any action to be taken at a meeting of the members, or which may be taken at a m
 
 Any action to be taken at any annual, regular, or special meeting of members may be taken without a meeting if approved by written ballot as provided herein. The Association shall deliver a written ballot to each member entitled to vote on the matter. The written ballot shall set forth each proposed action and provide an opportunity to vote for or against each proposed action. Approval by written ballot of an action shall be valid only when the number of votes cast by ballot equals or exceeds the quorum required to be present at a meeting held to authorize such action and the number of approvals equals or exceeds the number of votes that would be required to approve the matter at a meeting at which the total number of votes cast was the same as the number of votes cast by ballot. All solicitations for votes by written ballot shall indicate the number of responses needed to meet the quorum requirements; state the percentage of approvals necessary to approve each matter other than election of directors; and specify the time by which a ballot must be received by the Association in order to be counted. A timely written ballot received by the Association may not be revoked without the consent of the Board. The results of each action by written ballot shall be certified by the Secretary and shall be included in the minutes of meetings of members filed in the Association's permanent records.
 
-# ARTICLE III BOARD OF DIRECTORS: NUMBER, POWERS, MEETINGS
+# ARTICLE III. BOARD OF DIRECTORS: NUMBER, POWERS, MEETINGS
 
 # A. Composition and Selection.
 
@@ -103,7 +103,7 @@ Each Owner, by acceptance of a deed to or other conveyance of a Lot, vests in De
 
 ## 3.3. Number of Directors.
 
-The Board shall consist of three members. After the Declarant's right to appoint directors and officers terminates, the Board shall expand the number of directors to five or seven members, which shall be filled by a vote of the members in accordance with Section 3.5(b).
+The Board shall consist of three members. After the Declarant's right to appoint directors and officers terminates, the Board shall expand the number of directors to five or seven members, which shall be filled by a vote of the members in accordance with Section 3.5(b).^[this sub-article is modified by the First Amendment to the Bylaws - Ed.]
 
 ## 3.4. Nomination of Directors.
 
@@ -117,7 +117,7 @@ a.  After the Declarant's right to appoint directors and officers terminates, th
 
 b.  Thereafter, directors shall be elected at the Association's annual meeting. All eligible members of the Association shall vote on all directors to be elected, and the candidate(s) receiving the most votes shall be elected. At the special meeting in which the Owners initially elect directors, three directors shall be elected to two-year terms and two directors shall be elected to one-year terms.. At the expiration of the initial term of office of each respective Owner-elected director, a successor shall be elected to serve for a term of two years. The directors shall hold office until their respective successors shall have been elected by the Association.
 
-c.  At all times after the expiration of Declarant's right to appoint directors and officers, at least one member of the Board of Directors shall be an Owner-occupant of a Lot on which a townhome is constructed. Any such director(s) shall also sit on the Townhome Committee, as described elsewhere in the Bylaws and the Declaration.^[this sub-article is part of the Second Amendment to the Bylaws - Ed.]
+c.  At all times after the expiration of Declarant's right to appoint directors and officers, at least one member of the Board of Directors shall be an Owner-occupant of a Lot on which a townhome is constructed. Any such director(s) shall also sit on the Townhome Committee, as described elsewhere in the Bylaws and the Declaration.^[this sub-article is modified the First Amendment to the Bylaws - Ed.]
 
 ## 3.6. Removal of Directors.
 
@@ -129,7 +129,7 @@ Vacancies in the Board caused by any reason, excluding the removal of a director
 
 # B. Meetings.
 
-## 3.8 Organizational Meetings.
+## 3.8. Organizational Meetings.
 
 The first meeting of the Board following each annual membership meeting shall be held within ten (10) days thereafter at such time and place as shall be fixed by the Board.
 
@@ -211,35 +211,18 @@ The Board shall have the power to borrow money without the approval of the membe
 
 The Board shall not impose a fine (a late charge shall not constitute a fine) or suspend a members right to use any part of the Common Property unless and until the following procedure is followed:
 
-a.  
+a. **Notice**: Written notice shall be served upon the violator by first-class or certified mail sent to the last address of the member shown on the Association's records, specifying:
+    1.  the nature of the violation, the fine or suspension to be imposed, and the date, not less than fifteen (15) days from the date of the notice, that the fine or suspension will take effect;
+    2.  that the violator may within ten (10) days from the date of the notice, request a hearing regarding the fine or suspension imposed;
+    3.  the name, address, and telephone numbers of a person to contact to challenge the fine or suspension;
+    4.  that any statements, evidence, and witnesses may be produced by the violator at the hearing; and
+    5.  that all rights to have the fine or suspension reconsidered are waived if a hearing is not requested within ten (10) days of the date of the notice.
 
-    Notice.
+b. **Hearing**: If a hearing is requested, it shall be held before the Board in executive session, and the violator shall be given a reasonable opportunity to be heard. The minutes of the meeting shall contain a written statement of the results of the hearing. No fine or suspension shall be imposed prior to the date that is five (5) days after the date of the hearing.
 
-    :   Written notice shall be served upon the violator by first-class or certified mail sent to the last address of the member shown on the Association's records, specifying:
+c. **Enforcement**: In any action or proceeding to enforce the Declaration, these Bylaws, the rules and regulations of the Association, or decision of the Board, the Association shall be entitled to recover all expenses from the violator, including all attorney's fees.
 
-<!-- -->
-
-1.  the nature of the violation, the fine or suspension to be imposed, and the date, not less than fifteen (15) days from the date of the notice, that the fine or suspension will take effect;
-2.  that the violator may within ten (10) days from the date of the notice, request a hearing regarding the fine or suspension imposed;
-3.  the name, address, and telephone numbers of a person to contact to challenge the fine or suspension;
-4.  that any statements, evidence, and witnesses may be produced by the violator at the hearing; and
-5.  that all rights to have the fine or suspension reconsidered are waived if a hearing is not requested within ten (10) days of the date of the notice.
-
-<!-- -->
-
-b.  
-
-    Hearing.
-
-    :   If a hearing is requested, it shall be held before the Board in executive session, and the violator shall be given a reasonable opportunity to be heard. The minutes of the meeting shall contain a written statement of the results of the hearing. No fine or suspension shall be imposed prior to the date that is five (5) days after the date of the hearing.
-
-c.  
-
-    Enforcement.
-
-    :   In any action or proceeding to enforce the Declaration, these Bylaws, the rules and regulations of the Association, or decision of the Board, the Association shall be entitled to recover all expenses from the violator, including all attorney's fees.
-
-# ARTICLE IV OFFICERS
+# ARTICLE IV. OFFICERS
 
 ## 4.1. Officers.
 
@@ -279,27 +262,23 @@ Any officer may resign at any time by giving written notice to the Board. Such r
 
 Committees to perform such tasks and to serve for such periods as may be designated by the Board are hereby authorized. Each committee shall be composed and shall operate in accordance with the terms of the resolution of the Board designating the committee or with rules adopted by the Board.
 
-## 5.2 Town home Committee.^[this article is part of the Second Amendment to the Bylaws - Ed.]
+## 5.2 Town home Committee.^[this article is part of the First Amendment to the Bylaws - Ed.]
 
 Immediately prior to the termination of the Declarant's right to appoint directors and officers, there shall be created by the Board a "Townhome Committee." The Townhome Committee shall have five (5) members, all of whom shall be Owners and occupiers of town home Lots. Three (3) of the initial Committee Members shall serve two (2) year terms and two (2) of the initial Committee Members shall serve one (1) year terms. Thereafter, the Members of the Townhome Committee shall be nominated and elected exclusively by those Members of the Association who are Owners of townhome Lots and those Members so elected shall serve one (1) year terms. Upon proper vote, Members of the Townhome Committee may be re-elected for additional terms.
 
 The Board of Directors shall delegate to the Townhome Committee the following rights and duties:
 
-1.  With respect to those matters which pertain exclusively to the management and maintenance of the townhomes in the Community, any and all rights of the Board provided by the Bylaws, the Declaration or by law, including, but not limited to,
+1. With respect to those matters which pertain exclusively to the management and maintenance of the townhomes in the Community, any and all rights of the Board provided by the Bylaws, the Declaration or by law, including, but not limited to,
 
-<!-- -->
+    a.  The preparation and adoption of an annual budget in which there shall be established the contribution of each townhome Lot Owner to the exterior maintenance of the townhome Residences and their respective grounds ("Townhome Assessments"), including the establishment of reserves;
+    b.  The imposition of Townhome Assessments, including special assessments;
+    c.  Providing for care, upkeep and exterior maintenance of the townhome Residences, including the maintenance and upkeep of their respective grounds;
+    d.  Designating, hiring and dismissing the personnel necessary for the above-described maintenance functions, and contracting with any necessary persons for the performance of such duties;
+    e.  Complete authority to approve or disapprove the expenditure of any Townhome Assessments or reserves.
+    f.  The right and duty to obtain the hazard insurance policy(ies) contemplated by Article IX, Paragraph 9.1 (b) of the Declaration.
+    g.  Such other rights, powers and duties of the Board, that the Board may delegate to the Townhome Committee by majority resolution. Provided, however, that nothing in this Article shall be construed as allowing the Townhome Committee to eliminate the responsibility to properly provide for the exterior maintenance and upkeep of the town home Residences and their respective grounds, and the maintenance of insurance on the townhome structures, as described on the Declaration.
 
-a.  The preparation and adoption of an annual budget in which there shall be established the contribution of each townhome Lot Owner to the exterior maintenance of the townhome Residences and their respective grounds ("Townhome Assessments"), including the establishment of reserves;
-b.  The imposition of Townhome Assessments, including special assessments;
-c.  Providing for care, upkeep and exterior maintenance of the townhome Residences, including the maintenance and upkeep of their respective grounds;
-d.  Designating, hiring and dismissing the personnel necessary for the above-described maintenance functions, and contracting with any necessary persons for the performance of such duties;
-e.  Complete authority to approve or disapprove the expenditure of any Townhome Assessments or reserves.
-f.  The right and duty to obtain the hazard insurance policy(ies) contemplated by Article IX, Paragraph 9.1 (b) of the Declaration.
-g.  Such other rights, powers and duties of the Board, that the Board may delegate to the Townhome Committee by majority resolution. Provided, however, that nothing in this Article shall be construed as allowing the Townhome Committee to eliminate the responsibility to properly provide for the exterior maintenance and upkeep of the town home Residences and their respective grounds, and the maintenance of insurance on the townhome structures, as described on the Declaration.
-
-<!-- -->
-
-2.  The funds collected from Townhome Assessments and any special Townhome Assessments shall be deposited in a separate account held by the Association (the "Townhome Account") and shall be separately accounted for. The Townhome Committee, or its duly authorized designee, shall have exclusive signature authority of the Townhome Account. Except as amended or supplemented hereby or previously amended or supplemented, the aforementioned terms and conditions of the Bylaws of Glen lake Upstate Homeowners Association, Inc., shall remain unchanged and in full force and effect.
+2. The funds collected from Townhome Assessments and any special Townhome Assessments shall be deposited in a separate account held by the Association (the "Townhome Account") and shall be separately accounted for. The Townhome Committee, or its duly authorized designee, shall have exclusive signature authority of the Townhome Account. Except as amended or supplemented hereby or previously amended or supplemented, the aforementioned terms and conditions of the Bylaws of Glen lake Upstate Homeowners Association, Inc., shall remain unchanged and in full force and effect.
 
 # ARTICLE VI. MISCELLANEOUS
 
