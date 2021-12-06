@@ -26,12 +26,13 @@ a. In no event shall the Insurance coverage obtained and maintained by the Assoc
 a. All casualty insurance policies shall have an inflation guard endorsement and an agreed amount endorsement if these are reasonably available and all insurance policies shall be reviewed annually.
 
 a. The Association's Board of Directors shall be required to make every reasonable effort to secure insurance policies that will provide for the following:
-(1) A waiver of subrogation by the insurer as to any claims against the Association's Board of Directors, its manager, the Owners, and Occupants and their respective tenants, servants, agents, and guests;
-(2) A waiver by the insurer of its rights to repair and reconstruct instead of paying cash;
-(3) That no policy may be cancelled, invalidated, or suspended on account of any one or more individual Owners;
-(4) That no policy may be cancelled, subjected to non-renewal, invalidated, or suspended on account of any defect or the conduct of any director, officer, or employee of the Association or its duly authorized manager without prior demand in writing delivered to the Association to cure the defect or to cease the conduct, and the allowance of a reasonable time thereafter within which a cure may be effected by the Association, its manager, any Owner, or Mortgages;
-(5) That any "other insurance" clause in any policy exclude individual Owners' policies from consideration; and
-(6) That no policy may be canceled, subjected to non-renewal, or substantially modified without at least thirty (30) days prior written notice to the Association.
+
+    (1) A waiver of subrogation by the insurer as to any claims against the Association's Board of Directors, its manager, the Owners, and Occupants and their respective tenants, servants, agents, and guests;
+    (2) A waiver by the insurer of its rights to repair and reconstruct instead of paying cash;
+    (3) That no policy may be cancelled, invalidated, or suspended on account of any one or more individual Owners;
+    (4) That no policy may be cancelled, subjected to non-renewal, invalidated, or suspended on account of any defect or the conduct of any director, officer, or employee of the Association or its duly authorized manager without prior demand in writing delivered to the Association to cure the defect or to cease the conduct, and the allowance of a reasonable time thereafter within which a cure may be effected by the Association, its manager, any Owner, or Mortgages;
+    (5) That any "other insurance" clause in any policy exclude individual Owners' policies from consideration; and
+    (6) That no policy may be canceled, subjected to non-renewal, or substantially modified without at least thirty (30) days prior written notice to the Association.
 
 f. In addition to the other insurance required by this Section, the Board shall obtain workers compensation insurance to the extent necessary to satisfy the requirements of applicable laws, and shall obtain a fidelity bond or bonds on directors, officers, employees, and other persons handling or responsible for the Association's funds, if reasonably available. If obtained. the amount of fidelity coverage shall be determined in the minimum amount of three (3) months' assessments plus reserves on hand. Bonds shall contain a waiver of all defenses provision based upon the exclusion of persons serving without compensation and may not be canceled, subjected to non-renewal, or substantially modified without at least thirty (30) days prior written notice to the Association. The Association shall also obtain construction code endorsements, steam boiler coverage, and flood insurance, if and to the extent necessary to satisfy the requirements of the, Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, and the US. Department of Veterans Affairs, or the US. Department of Housing and Urban Development. 
 
@@ -84,6 +85,6 @@ In the event of damage or destruction to the Common Areas or other areas or impr
 
 1. The Association shall maintain adequate fidelity coverage against dishonest acts by officers, directors, trustees and employees, and all others who are responsible for handlingfunds of the Association. Such fidelity bonds shall:
 
-a. Name the Association as an obligee;
-a. Be written in an amount equal to at least 150% of the estimated annual operation expenses of the planned unit development project, including reserves; and
-a. Contain waivers of any defense based on the exclusion of persons who serve without compensation from any definition of "employee" or similar expression. contract to rebuild or repair such damaged or destroyed portions of the property to as good 
+    a. Name the Association as an obligee;
+    a. Be written in an amount equal to at least 150% of the estimated annual operation expenses of the planned unit development project, including reserves; and
+    a. Contain waivers of any defense based on the exclusion of persons who serve without compensation from any definition of "employee" or similar expression. contract to rebuild or repair such damaged or destroyed portions of the property to as good 
