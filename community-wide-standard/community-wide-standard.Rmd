@@ -1,0 +1,86 @@
+---
+title: "Community-Wide Standard for the Glenlake Upstate Homeowners Association, Inc."
+output: pdf_document
+header-includes: |
+    \usepackage{fancyhdr} 
+    \pagestyle{fancy} 
+    \fancypagestyle{plain}{\pagestyle{fancy}}
+    \fancyfoot{}
+    \fancyhead{}
+    \fancyfoot[L]{Community-Wide Standard for the Glenlake Upstate Homeowners Association, Inc.} 
+    \fancyfoot[R]{Page \thepage}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(lubridate)
+```
+
+# Purpose
+
+In order to maintain a high-quality residential development, to assure that all houses and other structures are of appropriate size, harmonious in design, properly located in relationship to neighboring structures and adapted to the terrain of each Lot, the Architectural Review Committee (ARC) was given full architectural control (1) (2). 
+
+To ensure a fair and consistent review process, the Declaration of Protective Covenants, Conditions and Restrictions (CCR) calls for the promulgation of written guidelines and procedures of the architectural review (3). This document will serve as a legally binding description of the process and the ARC guidelines.
+
+Nothing in this document can be interpreted to override the CCR and its Amendments; in case of conflicts the CCR is the dominant set of regulations. Nothing in this document can be interpreted to override Federal, State and local laws and regulations; in case of conflicts, the appropriate jurisdiction is the dominant set of regulations.
+
+# Process to change the Architectural Review Committee Guidelines and Procedures document
+
+Unless explicitly referenced in the Bylaws or the CCR, the processes and guidelines in this document are subject to change by a majority vote of the Board of Directors on advice of the Architectural Review Committee. 
+Changes to the **Architectural Review Guidelines for the Town Homes** need approval from the Town Home Committee before the Board of Directors can approve changes to this section.
+
+In case changes to the guidelines conflict with prior approvals by the ARC, the prior approvals will be grandfathered. However, no precedence from grandfathered approvals can be applied to current and future requests.
+
+# ARC review process
+
+```
+process <- tibble::tribble(~Owner, ~Task, ~Timeframe, 
+"Homeowner",
+"Identify the need to fill out an ARC Request form based on information in the Declaration, other regulatory documents and this guide.  Fill out ARC Request Form and send Form with all supplementary information to the Management Company",
+"Before initiating construction",
+
+"Management Company",
+"Forward ARC Request Form and all supplementary information to the ARC",
+"Within 3 working days of date of receipt",
+
+"ARC",
+"Review the ARC Request Form against the guidelines and best practices. If the ARC request conforms to the guidelines, send approval of form to the homeowner and the Management Company.\nIf the Request does not conform to the guidelines, send a formal denial to the homeowner and the Management Company with reasons for denial.",
+"Within 45 days of date of receipt",
+
+"Homeowner",
+"If the ARC Request is approved, initiate construction within one year of approval.\nIf the ARC Request is denied, construction cannot be started. The ARC Request can be modified to annul the reasons for denial and resubmitted for review.\nThe denial by the ARC can be appealed to the Board of Directors.",
+"Complete within one year of approval date (4).\nBefore initiating construction\nWithin 10 days of denial date",
+
+"Board of Directors",
+"In case of appeal, conduct appeal hearing",
+"As needed")
+
+knitr::kable(process)
+```
+
+
+## Need for ARC Request
+
+No building, fence, wall or other structure of any kind, or alteration or addition or change of exterior appearance thereto, may be commenced, erected or maintained on any Lot, until an ARC Request showing the nature, kind, shape, height, materials, color and location of the same shall have been submitted to the Architectural Review Committee for written approval (5). Section 7 of the CCR is the touchstone to determine the need for ARC approval. For specific information, see the section Architectural Review Guidelines in this document.
+
+The ARC Request form can be requested from the Management Company or downloaded from the Association website (6). The completed form and any supplementary information need to be sent the Management Company.
+
+## Review of the ARC Request
+After receipt of the ARC Request, the Management Company forwards the ARC Request to the chairperson of the ARC, who discusses the Request with all members of the ARC. The discussion is focused on the compliance with the guidelines set forth in this document, historical precedence (within limits (7)) and compliance with the general scheme of the community. The ARC Request can be approved or denied by majority vote of the ARC with the quorum for the vote being at least half of the committee members. 
+
+After a decision is made, the ARC chairperson communicates the decision to the homeowner and the Management Company. If the Request is denied, a reason needs to be given for the denial.
+
+If the ARC has failed to respond to the homeowner within forty-five days, the owner can send a certified mailing to the ARC stating the date of the original request and a request for approval. If the ARC does not respond within thirty days of this request, approval by the ARC will not be necessary (8).
+
+## After approval of the ARC Request
+
+When the ARC Request is approved, the homeowner can start construction and needs to finish within one year of the approval date (4). If the construction is not completed within one year of approval, an extension can be requested from the ARC. Failure to complete the construction within this timeframe or lack of activity of 90 days or more, makes the homeowner liable to legal action by the Association until the construction is respectively completed or resumed, or until the homeowner can prove that circumstances beyond their control forced the lack of progress. If construction has not been started within one year of the approval date, the approval is considered moot. A new ARC Request will need to be submitted for approval.
+
+During construction, any representative of the ARC can (after reasonable notice) enter and inspect the construction to determine compliance with the approved ARC Request (5). If the construction is deemed to violate the approved plans, the Board of Directors can notify the homeowner of their violation and enforce a remedy for the violation. If the homeowner has not taken reasonable steps within thirty days, the Board of Directors can take legal action against the homeowner (9).
+Approval of the ARC Request does not imply any responsibility to the ARC for any aspect of the construction and/or compliance with any Federal, State or local laws and regulations (10).
+
+## After denial of the ARC Request
+
+When the ARC Request is denied, the homeowner can under no circumstance initiate construction or be subject to the violations process from the previous section. However, the homeowner can re-submit the Request after modification to fit the reasons stated in the denial. The date of the modified request counts as a new start date for the ARC Review process.
+
+If the homeowner does not agree with the denial or the reasons communicated by the ARC, they can also appeal the denial to the Board of Directors by requesting a hearing within ten days of the date of the denial. Failure to request a hearing within ten days voids the right of the homeowner to appeal (11). During the hearing, the homeowner can state their case to the Board (12).  The Board can choose to override the ARC by majority vote within the frameworks of Federal, State, and County laws and regulations and the CCR.
