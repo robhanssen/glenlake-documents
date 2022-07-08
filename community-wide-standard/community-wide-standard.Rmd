@@ -33,29 +33,46 @@ In case changes to the guidelines conflict with prior approvals by the ARC, the 
 
 # ARC review process
 
-```
-process <- tibble::tribble(~Owner, ~Task, ~Timeframe, 
-"Homeowner",
+```{r, echo = FALSE}
+process <- tibble::tribble(~"Task Owner", ~Task, ~Timeframe, 
+"Owner",
 "Identify the need to fill out an ARC Request form based on information in the Declaration, other regulatory documents and this guide.  Fill out ARC Request Form and send Form with all supplementary information to the Management Company",
 "Before initiating construction",
 
-"Management Company",
+"","","",
+
+"Hinson",
 "Forward ARC Request Form and all supplementary information to the ARC",
 "Within 3 working days of date of receipt",
 
+"","","",
+
 "ARC",
-"Review the ARC Request Form against the guidelines and best practices. If the ARC request conforms to the guidelines, send approval of form to the homeowner and the Management Company.\nIf the Request does not conform to the guidelines, send a formal denial to the homeowner and the Management Company with reasons for denial.",
+"Review the ARC Request Form against the guidelines and best practices. If the ARC request conforms to the guidelines, send approval of form to the homeowner and the Management Company. If the Request does not conform to the guidelines, send a formal denial to the homeowner and the Management Company with reasons for denial.",
 "Within 45 days of date of receipt",
 
-"Homeowner",
-"If the ARC Request is approved, initiate construction within one year of approval.\nIf the ARC Request is denied, construction cannot be started. The ARC Request can be modified to annul the reasons for denial and resubmitted for review.\nThe denial by the ARC can be appealed to the Board of Directors.",
-"Complete within one year of approval date (4).\nBefore initiating construction\nWithin 10 days of denial date",
+"","","",
 
-"Board of Directors",
+"Owner",
+"If the ARC Request is approved, initiate construction within one year of approval.",
+"Complete within one year of approval date",
+
+
+"Owner",
+"If the ARC Request is denied, construction cannot be started. The ARC Request can be modified to annul the reasons for denial and resubmitted for review.",
+"Before initiating construction.",
+
+"Owner",
+"The denial by the ARC can be appealed to the Board of Directors.",
+ "Within 10 days of denial date",
+
+"","","",
+
+"Board",
 "In case of appeal, conduct appeal hearing",
 "As needed")
 
-knitr::kable(process)
+knitr::kable(process, "pipe")
 ```
 
 
