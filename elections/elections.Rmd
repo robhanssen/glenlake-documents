@@ -52,7 +52,7 @@ Organizing the elections of the Board of Directors and the Annual Meeting are es
 
 ## History
 
-During the first elections after the developer handover in 2018, seven Directors were elected in accordance with the Bylaws,[@by0303] four of those with a term of two years and three with a term of one year. Because of the staggering of terms, during the odd years (*e.g.* `r yearstext("odd")`), three positions are available and during the even years (*e.g.* `r yearstext("even")`), four positions are available. In accordance with the Bylaws, one position on the Board of Directors must be filled by a representative of the Town Home owners.[@by0305c]
+During the first election after the developer handover in 2018, seven Directors were elected in accordance with the Bylaws,[@by0303]^,^[@by0305b] four of those with a term of two years and three with a term of one year. All directors elected after the first election will have a two-year term.[@by0305b] Because of the staggering of terms, during the odd years (*e.g.* `r yearstext("odd")`), three positions are available and during the even years (*e.g.* `r yearstext("even")`), four positions are available. In accordance with the Bylaws, one position on the Board of Directors must be filled by a representative of the Town Home owners.[@by0305c]
 
 ## Vacancies
 
