@@ -22,7 +22,7 @@ yearstext <- function(t, num_years = 2) {
     this_year <- lubridate::year(lubridate::today())
 
     evenyears <- this_year  + this_year %% 2 + 2 * 0:(num_years - 1)
-    oddyears <- evenyears - 1
+    oddyears <- evenyears + 1
 
     if (t == "odd") {
         return(paste0(trimws(paste(oddyears, collapse = ", ")), ", etc."))
@@ -50,15 +50,23 @@ Organizing the elections of the Board of Directors and the Annual Meeting are es
 
 # Background
 
+## History
+
 During the first elections after the developer handover in 2018, seven Directors were elected in accordance with the Bylaws,[@by0303] four of those with a term of two years and three with a term of one year. Because of the staggering of terms, during the odd years (*e.g.* `r yearstext("odd")`), three positions are available and during the even years (*e.g.* `r yearstext("even")`), four positions are available. In accordance with the Bylaws, one position on the Board of Directors must be filled by a representative of the Town Home owners.[@by0305c]
 
+## Vacancies
+
 Positions that are vacant due to resignation of a Director need to be filled by a vote of the Board of Directors if the term of the vacant position is not due during the elections, however the Board can choose to elicit input in filling the position using the ballot. This will not change the length of the term of the position.[@by0307]
+
+## The Nomination Committee
+
+The Nomination Committee is authorized in the Bylaws[@by0304] and created by the Board of Directors via a resolution.[@res2018012] The task of the Nomination Committee is to organize the election process, the Town Hall meetings, the Annual Meeting and the Organizational Meeting. During this process, several letters need to be sent out to the homeowners with approval of the Board of Directors; a location for the Annual Meeting needs to be found, approved by the Board and booked; a location for the Town Halls (typically the Glen Lake Club House) needs to be booked. To facilitate communication to the homeowners, signs can be printed, and social media can be used.
 
 # Guidelines for the timing of specific actions and events:
 
 ## Early-October: Assemble the Nominations Committee
 
-The Nomination Committee is authorized in the Bylaws[@by0304] and created by the Board of Directors via a resolution.[@res2018012] The task of the Nomination Committee is to organize the election process, the Town Hall meetings, the Annual Meeting and the Organizational Meeting. During this process, several letters need to be sent out to the homeowners with approval of the Board of Directors; a location for the Annual Meeting needs to be found, approved by the Board and booked; a location for the Town Halls (typically the Glen Lake Club House) needs to be booked. To facilitate communication to the homeowners, signs can be printed, and social media can be used.
+Volunteers are appointed to the Nominations Committee.
 
 ## Early to Mid-December: Send nomination letter to all HOA members
 
@@ -78,7 +86,7 @@ See Appendix 1 for an example letter and nomination form.
 
 ## Mid-December: Secure the location to be used for the Annual Meeting
 
-In past years, the lunchroom of Boiling Springs Elementary School was used to host the Annual Meeting and Elections. The cost is approximately \$150. Alternatively, in 2020 and 2021 the Glen Lake Club House was used at no cost. Other locations can also be used. The location should be able to host 80 people and should have a PA system.
+For all elections since 2020 the Glen Lake Club House was used at no cost.  Alternatively, in 2018 and 2019, the lunchroom of Boiling Springs Elementary School was used to host the Annual Meeting and Elections (the cost was approximately \$150). Other locations can also be used. The location should be able to host 50 people and should have a PA system.
 
 ## Mid-January: Send ballot and accompanying letter to all HOA members
 
@@ -94,13 +102,13 @@ Typically, two town hall meetings are held where nominees for the Board can answ
 
 All Directors and nominees must agree on the date for the Organizational meeting which will be held within 10 days of the Annual Meeting and Board of Director elections. It is prudent to have a date available for all potential Directors so that the Organizational Meeting can take place in accordance with the Bylaws.[@by0308] The Organizational Meeting can be announced on the website calendar.
 
-## Mid-January: Organize the vote counters, if third-party
+## Mid-January: Organize the vote counters
 
-The counting of the votes should be done by neutral parties, i.e. homeowners with no ties to the nominees or third-party civic organizations, such as the Beta Club, Scouts organizations, fraternities or sororities, etc. If the Nomination Committee decides to use third parties, these should be notified to participate.
+The counting of the votes should be done by neutral parties, *i.e.* homeowners with no ties to the nominees or third-party civic organizations, such as the Beta Club, Scouts organizations, fraternities or sororities, etc. If the Nomination Committee decides to use third parties, these should be notified to participate. During most elections, the Social Committee has volunteered as vote counters.
 
-## Mid-January: Arrange the presence of a recording secretary
+## Mid-January: Arrange the presence of a recording secretary **(OPTIONAL)**
 
-To capture all information communicated from and to the homeowners during the Annual Meeting, it is advised to use a third-party professional recording secretary. The management company has a list of people who can function as such. This person will need to be booked for the event.
+To capture all information communicated from and to the homeowners during the Annual Meeting, it is possible to use a third-party professional recording secretary. The management company has a list of people who can function as such. This person will need to be booked for the event.
 
 ## Two weeks before the Annual Meeting
 
@@ -108,13 +116,13 @@ Determine if all the candidates are still eligible to enter the elections. All c
 
 ## One week before the Annual Meeting and Elections
 
-Determine if the quorum for the Annual Meeting has been met (25% of the Total Association Vote,[@by0209] approximately `r TOTALHOMES %/% 4` votes or proxies). If the quorum has not been reached, start a (social media or other) campaign to ensure that the quorum is made before or at the Annual Meeting. This is not an uncommon occurrence -- in the elections of 2018 through 2021, the quorum was reached during the week before the meeting after significant posting on social media and using signs at the entrances.
+Determine if the quorum for the Annual Meeting has been met (25% of the Total Association Vote,[@by0209] approximately `r TOTALHOMES %/% 4` votes or proxies). If the quorum has not been reached, start a (social media or other) campaign to ensure that the quorum is made before or at the Annual Meeting. This is not an uncommon occurrence -- in the elections of 2018 through 2022, the quorum was reached during the week before the meeting after significant posting on social media and using signs at the entrances.
 
 It is advisable to add a statement on the ballot letter and the ballot that states that the ballot is a proxy for presence at the meeting to make sure that the quorum can be reached with ballots alone.
 
 ## Early to mid-February: Annual Meeting and Special Meeting for the election of the Board of Directors
 
-The Annual Meeting is scheduled to take place within 60 days from the end of the previous fiscal year.[@by0202] The latest that the meeting can take place is February 29^th^ during leap years and March 1^st^ during regular years. To increase participation from the homeowners, the Annual Meeting is best scheduled on a weekend day, however it is best to avoid Superbowl weekend. From the end of the previous fiscal year until the day of the election, the board members will hold office until their successors are elected.[@by0305b]
+The Annual Meeting must take place within 60 days from the end of the previous fiscal year.[@by0202] The latest that the meeting can take place is February 29^th^ during leap years and March 1^st^ during regular years. To increase participation from the homeowners, the Annual Meeting is best scheduled on a weekend day, however it is best to avoid Superbowl weekend. From the end of the previous fiscal year until the day of the election, the board members will hold office until their successors are elected.[@by0305b]
 
 The agenda for the Annual Meeting must at least include the following items. Other items are optional.
 
@@ -125,21 +133,21 @@ The agenda for the Annual Meeting must at least include the following items. Oth
 5.  Open forum
 6.  Report of the results of the elections
 
-If the quorum of the meeting is not met, the meeting cannot proceed and must be adjourned to a meeting between 5 and 30 days later.[@by0206] Because Association funds will need to be spent on setting up a new meeting and announcing it to the homeowners, it is of the utmost importance that the quorum is met before or at the original meeting.
+*Ad 2.* If the quorum of the meeting is not met, the meeting cannot proceed and must be adjourned to a meeting between 5 and 30 days later.[@by0206] Because Association funds will need to be spent on setting up a new meeting and announcing it to the homeowners, it is of the utmost importance that the quorum is met before or at the original meeting.
 
-Nominations from the floor during the meeting is prescribed in the Bylaws[@by0304] and must be called for. If there is a nomination from the floor, the nominee must be given the opportunity to present themselves to the audience. During the 2018 and 2019 elections, no one was nominated in this fashion, and in 2020 one person was nominated from the floor. The consequence of calling nominations from the floor is that homeowners need to be able to change their ballots to accommodate voting for the new nominees. New ballots will need to be available during the meeting with blank spots for floor nominees.
+*Ad 3.* Nominations from the floor during the meeting is prescribed in the Bylaws[@by0304] and must be called for. If there is a nomination from the floor, the nominee must be given the opportunity to present themselves to the audience. During the 2018 and 2019 elections, no one was nominated in this fashion, and in 2020 one person was nominated from the floor. The consequence of calling nominations from the floor is that homeowners need to be able to change their ballots to accommodate voting for the new nominees. New ballots will need to be available during the meeting with blank spots for floor nominees.
 
-The Annual Treasury report must be reviewed at the Annual Meeting in a manner the Board of Directors can decide.[@cov1512]
+*Ad 4.* The Annual Treasury report must be reviewed at the Annual Meeting in a manner the Board of Directors can decide.[@cov1512]
 
-If there is a quorum, the nominees with the highest vote counts will be elected to the Board of Directors. The results of the vote count must be in the minutes of the meeting[@by0211] together with the quorum requirement.
+*Ad 5.* The Open Forum is done in a manner the Board of Directors can decide.
 
-According to the Bylaws, one position on the Board of Directors must be filled by a representative of the Town Homes who must also be on the Town Home Committee.[@by0305c] If no representative of the Town Homes has enough votes to be elected to the Board, they will still be appointed to the Board and replace the person on the Board who had the lowest vote count.
+*Ad 6.* If there is a quorum, the nominees with the highest vote counts will be elected to the Board of Directors. The results of the vote count must be in the minutes of the meeting[@by0211] together with the quorum requirement. One position on the Board of Directors must be filled by a representative of the Town Homes who must also be on the Town Home Committee.[@by0305c] If no representative of the Town Homes has enough votes to be elected to the Board, they will still be appointed to the Board and replace the person on the Board who had the lowest vote count.
 
 The first meeting of the newly elected Board members must take place within 10 days of the election and is called the Organizational Meeting.[@by0308]
 
 ## Mid-February: Organizational Meeting
 
-The Board of Directors meets in a public meeting to elect the officers (President, Vice President, Treasurer, Secretary) and handle the transition on information to the newly elected Board members. The method to elect Officers can be decided by the Directors. The length of the term remaining to the Director is of no consequence to their ability to be elected as Officers.
+The Board of Directors meets in a public meeting to elect the officers (President, Vice President, Treasurer, Secretary) and handle the transition of information to the newly elected Board members. The method to elect Officers can be decided by the Directors. The length of the term remaining to the Director is of no consequence to their ability to be elected as Officer.
 
 It is best to use this meeting to set the meeting schedule for the rest of the year and communicate this schedule via regular mail. This meeting should also include an executive session to transfer privacy-sensitive information to the newly elected Board members.
 
