@@ -1,5 +1,5 @@
 ---
-title: "Qualifications to compete in the Board Elections"
+title: "Qualifications for Glenlake Upstate Homeowners Association, Inc board members"
 output: 'pdf_document'
 bibliography: ../bibliography/biblio.json
 csl: ../bibliography/numeric.csl
@@ -15,10 +15,6 @@ library(lubridate)
 TOTALHOMES = 482
 
 ```
-
-
-
->Author: Rob Hanssen
 
 >Version: `r format(lubridate::today(), format="%B %d, %Y")`
 
