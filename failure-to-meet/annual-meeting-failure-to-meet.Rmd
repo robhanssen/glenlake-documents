@@ -24,15 +24,15 @@ Having an Annual Meeting is a matter of law (SC Statute 33-31-701 and our bylaws
 
 # References
 
-## Glenlake Upstate Homeowners Association, Inc. Bylaws Article 2.2
+### Glenlake Upstate Homeowners Association, Inc. Bylaws Article 2.2
 
 An annual or special meeting shall be held within one year from the date the Declaration is recorded. Annual meetings shall be set by the Board so as to occur no later than sixty (60) days after the close of the Association’s fiscal year.
 
-## Glenlake Upstate Homeowners Association, Inc. Bylaws Article 2.6
+### Glenlake Upstate Homeowners Association, Inc. Bylaws Article 2.6
 
 If any meetings of the Association cannot be held because a quorum is not present, a majority of the members who are present at such meeting, either in person or by proxy, may adjourn the meeting to a time not less than five (5) nor more than thirty (30) days from the time the original meeting was called. At such adjourned meeting at which a quorum is present, any business which might have been transacted at the meeting originally called may be transacted without further notice.
 
-## SC Statute 33-31-701
+### SC Statute 33-31-701
 
 a. A corporation with members shall hold a membership meeting annually at a time stated in or fixed in accordance with the bylaws.
 b. A corporation with members may hold regular membership meetings at the times stated in or fixed in accordance with the bylaws.
@@ -45,7 +45,7 @@ d. At the annual meeting:
 e. At regular meetings, the members shall consider and act upon matters as raised consistent with provisions of the articles of incorporation or bylaws and, in addition, with the notice requirements of this chapter.
 f. The failure to hold an annual or regular meeting at a time stated in or fixed in accordance with a corporation's bylaws does not affect the validity of a corporate action.
 
-## Statute 33-31-703
+### SC Statute 33-31-703
 
 a. The court of common pleas of the county where a corporation's principal office in this State or, if none in this State, its registered office, is located may summarily order a meeting to be held:
 
