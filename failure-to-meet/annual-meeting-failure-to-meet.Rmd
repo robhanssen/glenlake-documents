@@ -1,5 +1,5 @@
 ---
-title: "Annual Meeting: failure to meeting because of quorum"
+title: "Annual Meeting: failure to meet because of quorum"
 output: 'pdf_document'
 bibliography: ../bibliography/biblio-ftm.json
 csl: ../bibliography/numeric.csl
