@@ -2,7 +2,7 @@
 title: "Organization of the Annual Meeting and Board elections"
 output: 'pdf_document'
 bibliography: ../bibliography/biblio.json
-csl: ../bibliography/numeric.csl
+csl: ../bibliography/acs.csl
 ---
 
 ```{r setup, include=FALSE}
