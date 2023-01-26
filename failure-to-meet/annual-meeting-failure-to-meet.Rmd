@@ -1,0 +1,60 @@
+---
+title: "Annual Meeting: failure to meeting because of quorum"
+output: 'pdf_document'
+bibliography: ../bibliography/biblio-ftm.json
+csl: ../bibliography/numeric.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(readr)
+library(dplyr)
+library(knitr)
+library(lubridate)
+
+```
+
+>Version: `r format(lubridate::today(), format="%B %d, %Y")`
+
+# Failure to meet
+
+Having an Annual Meeting is a matter of law (SC Statute 33-31-701 and our bylaws Article 2.2). Failure to have an Annual Meeting because of lack of quorum is a road to wasting a lot of money. First, new notices would be send out every 30 days ($1000 per mailing) and after six months or later, this could go in front of a judge who would order a meeting (multiple thousands of dollars in legal cost; Statute 33-31-703(a)(1) and 33-31-703(b) and (c)).
+
+> How can we avoid this this waste? Just send in a ballot or a proxy form. 
+
+# References
+
+## Glenlake Upstate Homeowners Association, Inc. Bylaws Article 2.2
+
+An annual or special meeting shall be held within one year from the date the Declaration is recorded. Annual meetings shall be set by the Board so as to occur no later than sixty (60) days after the close of the Association’s fiscal year.
+
+## Glenlake Upstate Homeowners Association, Inc. Bylaws Article 2.6
+
+If any meetings of the Association cannot be held because a quorum is not present, a majority of the members who are present at such meeting, either in person or by proxy, may adjourn the meeting to a time not less than five (5) nor more than thirty (30) days from the time the original meeting was called. At such adjourned meeting at which a quorum is present, any business which might have been transacted at the meeting originally called may be transacted without further notice.
+
+## SC Statute 33-31-701
+
+a. A corporation with members shall hold a membership meeting annually at a time stated in or fixed in accordance with the bylaws.
+b. A corporation with members may hold regular membership meetings at the times stated in or fixed in accordance with the bylaws.
+c. Annual and regular membership meetings may be held in or out of this State at the place stated in or fixed in accordance with the bylaws. If no place is stated in or fixed in accordance with the bylaws, annual and regular meetings must be held at the corporation's principal office.
+d. At the annual meeting:
+
+    1. The president and chief financial officer shall report on the activities and financial condition of the corporation; and
+    2. Unless this chapter or the articles of incorporation or bylaws require otherwise, notice of an annual meeting need not include a description of the purpose for which the meeting is called.
+
+e. At regular meetings, the members shall consider and act upon matters as raised consistent with provisions of the articles of incorporation or bylaws and, in addition, with the notice requirements of this chapter.
+f. The failure to hold an annual or regular meeting at a time stated in or fixed in accordance with a corporation's bylaws does not affect the validity of a corporate action.
+
+## Statute 33-31-703
+
+a. The court of common pleas of the county where a corporation's principal office in this State or, if none in this State, its registered office, is located may summarily order a meeting to be held:
+
+    1. on application of a member or other person entitled to participate in an annual or regular meeting, and in the case of a public benefit corporation, the Attorney General, if an annual meeting was not held within the earlier of six months after the end of the corporation's fiscal year or fifteen months after its last annual meeting; or
+    2. on application of a member or other person entitled to participate in a regular meeting, and in the case of a public benefit corporation, the Attorney General, if a regular meeting is not held within forty days after the date it was required to be held; or
+    3. on application of a member who signed a demand for a special meeting valid under Section 33-31-702, a person or persons entitled to call a special meeting and, in the case of a public benefit corporation, the Attorney General, if:
+
+        i. notice of the special meeting was not given within thirty days after the date the demand was delivered to a corporate officer; or
+        ii. the special meeting was not held in accordance with the notice.
+
+b. The court may fix the time and place of the meeting, specify a record date for determining members entitled to notice of and to vote at the meeting, prescribe the form and content of the meeting notice, fix the quorum required for specific matters to be considered at the meeting, or direct that the votes represented at the meeting constitute a quorum for action on those matters, and enter other orders necessary to accomplish the purpose or purposes of the meeting.
+c. If the court orders a meeting, it may also order the corporation to pay the member's costs, including reasonable counsel fees, incurred to obtain the order.
