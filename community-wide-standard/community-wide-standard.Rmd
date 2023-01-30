@@ -14,6 +14,7 @@ header-includes: |
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(lubridate)
+library(kableExtra)
 ```
 
 # Purpose
@@ -72,7 +73,7 @@ process <- tibble::tribble(~"Task Owner", ~Task, ~Timeframe,
 "In case of appeal, conduct appeal hearing",
 "As needed")
 
-knitr::kable(process, "pipe")
+knitr::kable(process, "pipe") %>% kable_styling(full_width = TRUE)
 ```
 
 
