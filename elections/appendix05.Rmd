@@ -1,0 +1,11 @@
+# Appendix 5. Questions proposed in previous years
+
+```{r readfile, include=FALSE}
+questions <- read_csv("data/nomineequestions.csv")
+```
+
+```{r printtable, echo=FALSE, results='asis'}
+kbl(questions) %>%
+  kable_paper(full_width = TRUE)
+```
+

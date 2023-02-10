@@ -42,7 +42,7 @@ yearstext <- function(t, num_years = 3) {
 
 # Purpose
 
-Organizing the elections of the Board of Directors and the Annual Meeting are essential parts of the function of the Board of Directors. Board members have a two-year term and their terms are staggered.[@by0305b] Elections take place every year at the Annual Meeting.[@by0305b] This guideline offers a time line to organize the elections and the Annual Meeting in an efficient manner.
+Organizing the elections of the Board of Directors and the Annual Meeting are essential parts of the function of the Board of Directors. Elections take place every year at the Annual Meeting. This guideline offers a time line to organize the elections and the Annual Meeting in an efficient manner.
 
 \tableofcontents
 \newpage
@@ -100,6 +100,12 @@ See Appendix 2 for an example letter and Appendix 3 for an example ballot form.
 ## Mid-January: Nomination town halls
 
 Typically, two town hall meetings are held where nominees for the Board can answer questions from HOA members. These questions can come from the audience or from pre-selected questions determined by the Nomination Committee or otherwise. Depending on the size of the group of nominees, there can be anywhere from 5 to 10 questions with answer times from 2 to 5 minutes. To increase participation of the homeowners, at least one meeting should be scheduled on a weekend day.
+
+## Mid-January: Announce the possibility of granting proxies
+
+Homeowners can also grant other HOA members a proxy to attend the Annual Meeting and vote on their behalf. All proxies shall be in writing, dated, and filed with the Secretary before the appointed time of each meeting. Every proxy is revocable and will automatically cease when the proxied member's lot is sold or when the proxied member is present at the meeting.[@by0208]
+
+An example of a proxy form can be found in Appendix 4.
 
 ## Mid-January: Settle on a date for the Organizational Meeting
 
@@ -174,6 +180,11 @@ There must be at least one meeting per quarter,[@by0309] *i.e.* four meetings pe
 
 ```{r child = 'appendix03.Rmd'}
 ```
+
+\newpage
+```{r child = 'appendix04.Rmd'}
+```
+
 
 \newpage
 # References

@@ -1,11 +1,3 @@
-# Appendix 4. Questions proposed in previous years
+# Appendix 4. Proxy form
 
-```{r readfile, include=FALSE}
-questions <- read_csv("data/nomineequestions.csv")
-```
-
-```{r printtable, echo=FALSE, results='asis'}
-kbl(questions) %>%
-  kable_paper(full_width = TRUE)
-```
-
+![](images/proxyform.png)
