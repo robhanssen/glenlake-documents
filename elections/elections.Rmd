@@ -81,7 +81,7 @@ Volunteers are appointed to the Nominations Committee.
 
 ## Early to Mid-December: Send nomination letter to all HOA members
 
-This letter serves as the request for nominations to run for the Board. Typically, the term for the return of nominations is 2 to 4 weeks. The Christmas and New Year's vacation will cause delays in the return and all care should be taken to have the nomination letters in the member's home before December 4^th^. This letter can also be used to request questions that can be used at the Town Hall meetings. The last function of this letter can be to announce the date of the Annual Meeting, however the Annual Meeting can officially only be announced up to 60 days before the date of the Annual Meeting.[@by0204] The best opportunity to send this letter is to add it to the budget package sent out mid-November to limit the expense.
+This letter serves as the request for nominations to run for the Board. Typically, the term for the return of nominations is 2 to 4 weeks. The Christmas and New Year's vacation will cause delays in the return and all care should be taken to have the nomination letters in the member's home before December 24^th^. This letter can also be used to request questions that can be used at the Town Hall meetings. The last function of this letter can be to announce the date of the Annual Meeting, however the Annual Meeting can officially only be announced up to 60 days before the date of the Annual Meeting.[@by0204] The best opportunity to send this letter is to add it to the budget package sent out mid-November to limit the expense.
 
 For convenience and speed, the nomination form and town hall questions form can also be made available on the Association website. During the 2019 elections, all nominations and most questions came in via the website.
 
@@ -162,7 +162,7 @@ It is best to use this meeting to set the meeting schedule for the rest of the y
 
 # Regular Meetings
 
-There must be at least one meeting per quarter,[@by0309] *i.e.* four meetings per year. If there are no deviations from the schedule set during the Organizational Meeting and communicated via regular mail, no further notice is required.[@by0309] For convenience, the meetings can be announced on the Association website. During regular meetings, a majority of the Board members needs to be present to conduct any business.[@by0312]
+There must be at least one meeting per quarter,[@by0309] *i.e.* four meetings per year. The Organizational Meeting counts as a regular meeting for this requirement. If there are no deviations from the schedule set during the Organizational Meeting and communicated via regular mail, no further notice is required.[@by0309] For convenience, the meetings can be announced on the Association website. During regular meetings, a majority of the Board members needs to be present to conduct any business.[@by0312]
 
 \newpage
 ```{r child = 'appendix01.Rmd'}
