@@ -18,9 +18,9 @@ TOTALHOMES = 482
 
 >Version: `r format(lubridate::today(), format="%B %d, %Y")`
 
-# Candidate qualifications
+# Board member qualifications
 
-The qualifications[@by0301]^,^[@cov0511c] for the nominees are:
+The qualifications[@by0301]^,^[@cov0511c] for board members are:
 
 1.  Be the owner of a home within Glen Lake
 2.  Be in good standing with the association
