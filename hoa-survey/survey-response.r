@@ -25,7 +25,7 @@ answer_2 <- "Open during daytime"
 
 results <-
     c(
-        rep(answer_1, 38),
+        rep(answer_1, 39),
         rep(answer_2, 33)
     )
 
@@ -67,21 +67,16 @@ note_table <- as_tibble(table(results))
 sign <- ifelse(params$p.value < .05, "", "not ")
 pval <- scales::pvalue(params$p.value)
 
-note <- glue::glue(
-    "\U03A7^2 analysis shows that the difference is {sign}significant ",
-    "(p", ifelse(str_detect(pval, "<"), "", "="), "{pval})"
-)
-
 note <-
     case_when(
         params$p.value > 0.05 ~
             glue::glue("No option is preferred over the other significantly ",
                 "(p", ifelse(str_detect(pval, "<"), "", "="), "{pval}) "),
-        sum(results == answer_1) > length(results == answer_2) ~
-            glue::glue("There is a preference for {answer_1}",
+        sum(results == answer_1) > sum(results == answer_2) ~
+            glue::glue("There is a preference for {answer_1} ",
             "(p", ifelse(str_detect(pval, "<"), "", "="), "{pval}) "
             ),
-        sum(results == answer_1) < length(results == answer_2) ~
+        sum(results == answer_1) < sum(results == answer_2) ~
             glue::glue("There is a preference for {answer_2} ",
             "(p", ifelse(str_detect(pval, "<"), "", "="), "{pval})"
             ),
