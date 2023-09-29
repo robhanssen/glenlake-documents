@@ -5,11 +5,13 @@ library(ggpmisc)
 theme_set(theme_light() +
     theme(
         plot.caption.position = "plot",
-        plot.caption = element_text(hjust = 0)
+        plot.caption = element_text(hjust = 0),
+        axis.ticks = element_blank(),
+        panel.grid.minor.y = element_blank()
     ))
 
 resp <-
-    read_csv("activities.csv") %>%
+    read_csv("hoa-survey/activities.csv") %>%
     janitor::clean_names() %>%
     filter(str_detect(action, "Survey response")) %>%
     arrange(date) %>%
@@ -23,7 +25,7 @@ answer_2 <- "Open during daytime"
 
 results <-
     c(
-        rep(answer_1, 36),
+        rep(answer_1, 38),
         rep(answer_2, 33)
     )
 
@@ -133,10 +135,11 @@ analysis_g <-
         title = note
     ) +
     theme(
-        axis.text.y = element_blank()
+        axis.text.y = element_blank(),
+        panel.grid.major.y = element_blank()
     )
 
-ggsave("vote_analysis.png",
+ggsave("hoa-survey/vote_analysis.png",
     width = 12, height = 6,
     plot = time_plot + analysis_g
 )
