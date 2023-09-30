@@ -4,6 +4,7 @@ library(ggpmisc)
 
 theme_set(theme_light() +
     theme(
+        plot.title.position = "plot",
         plot.caption.position = "plot",
         plot.caption = element_text(hjust = 0),
         axis.ticks = element_blank(),
@@ -25,7 +26,7 @@ answer_2 <- "Open during daytime"
 
 results <-
     c(
-        rep(answer_1, 39),
+        rep(answer_1, 40),
         rep(answer_2, 33)
     )
 
@@ -70,15 +71,19 @@ pval <- scales::pvalue(params$p.value)
 note <-
     case_when(
         params$p.value > 0.05 ~
-            glue::glue("No option is preferred over the other significantly ",
-                "(p", ifelse(str_detect(pval, "<"), "", "="), "{pval}) "),
+            glue::glue(
+                "No option is preferred over the other significantly ",
+                "(p", ifelse(str_detect(pval, "<"), "", "="), "{pval}) "
+            ),
         sum(results == answer_1) > sum(results == answer_2) ~
-            glue::glue("There is a preference for {answer_1} ",
-            "(p", ifelse(str_detect(pval, "<"), "", "="), "{pval}) "
+            glue::glue(
+                "There is a preference for {answer_1} ",
+                "(p", ifelse(str_detect(pval, "<"), "", "="), "{pval}) "
             ),
         sum(results == answer_1) < sum(results == answer_2) ~
-            glue::glue("There is a preference for {answer_2} ",
-            "(p", ifelse(str_detect(pval, "<"), "", "="), "{pval})"
+            glue::glue(
+                "There is a preference for {answer_2} ",
+                "(p", ifelse(str_detect(pval, "<"), "", "="), "{pval})"
             ),
         TRUE ~
             ""
@@ -136,5 +141,9 @@ analysis_g <-
 
 ggsave("hoa-survey/vote_analysis.png",
     width = 12, height = 6,
-    plot = time_plot + analysis_g
+    plot = time_plot + analysis_g +
+        plot_annotation(
+            title = "Glen Lake Gate Survey (Sep-Oct 2023)",
+            theme = theme(plot.title = element_text(hjust = .5))
+        )
 )
