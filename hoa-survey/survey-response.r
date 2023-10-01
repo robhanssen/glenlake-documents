@@ -247,3 +247,97 @@ ggsave("hoa-survey/vote_analysis-binom.png",
             theme = theme(plot.title = element_text(hjust = .5))
         )
 )
+
+#
+# using exact binomial analysis
+#
+
+binom_exact <-
+    tibble(
+        p = c(0, seq_along(results)),
+        y = dbinom(p, length(results), prob = .5)
+    ) %>%
+    mutate(across(p:y, ~ .x / max(.x)))
+
+errbars <-
+    tibble(x = qbinom(c(.05, .95), length(results), prob = .50)) %>%
+    mutate(x = x / length(results))
+
+mean <- .5 * length(results)
+sd <- sqrt(.5 * (1- .5) * length(results))
+
+p.value <- pnorm((sum(results == answer_1) - mean)/sd, lower.tail = FALSE)
+pval <- scales::pvalue(p.value)
+
+note <-
+    case_when(
+        pval > 0.05 ~
+            glue::glue(
+                "No option is preferred over the other significantly ",
+                "(p", ifelse(str_detect(pval, "<"), "", "="), "{pval}) "
+            ),
+        sum(results == answer_1) > sum(results == answer_2) ~
+            glue::glue(
+                "There is a preference for {answer_1} ",
+                "(p", ifelse(str_detect(pval, "<"), "", "="), "{pval}) "
+            ),
+        sum(results == answer_1) < sum(results == answer_2) ~
+            glue::glue(
+                "There is a preference for {answer_2} ",
+                "(p", ifelse(str_detect(pval, "<"), "", "="), "{pval})"
+            ),
+        TRUE ~
+            ""
+    )
+
+
+binom_exact_g <-
+    ggplot(
+    binom_exact,
+    aes(x = p, y = y)
+) +
+    geom_line() +
+    geom_vline(
+        xintercept = mean(results == answer_1),
+        color = "gray30",
+        alpha = .5,
+        linewidth = 1
+        ) +
+    geom_errorbar(
+        inherit.aes = FALSE,
+        data = errbars,
+        aes(xmin = min(x), xmax = max(x), y = .1),
+        width = .05,
+        linewidth = 2,
+        color = "gray70",
+        alpha = .5
+    ) +
+    scale_x_continuous(
+        breaks = 0:4 / 4,
+        labels = scales::percent_format()
+    ) +
+    annotate("label",
+        x = c(0, 1), y = .10, vjust = .5, hjust = c(0, 1),
+        label = c(answer_2, answer_1)
+    ) +
+    labs(
+        x = "Vote proportion", y = "",
+        title = note
+    ) +
+    annotate("table",
+        x = 0, y = .8,
+        label = note_table, hjust = 0
+    ) +
+    theme(
+        axis.text.y = element_blank(),
+        panel.grid.major.y = element_blank()
+    )
+
+ggsave("hoa-survey/vote_analysis-binomexact.png",
+    width = 12, height = 6,
+    plot = time_plot + binom_exact_g +
+        plot_annotation(
+            title = "Glen Lake Gate Survey (Sep-Oct 2023)",
+            theme = theme(plot.title = element_text(hjust = .5))
+        )
+)
