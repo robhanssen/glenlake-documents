@@ -88,6 +88,8 @@ note <-
             ""
     )
 
+set.seed(20231001)
+
 mns <-
     map_dbl(
         seq_len(10000),
@@ -152,6 +154,8 @@ totalset <-
         rep(answer_1, 482 / 2),
         rep(answer_2, 482 / 2)
     )
+
+set.seed(20231001)
 
 base_results <-
     map_dbl(
