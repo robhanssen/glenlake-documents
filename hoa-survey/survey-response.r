@@ -26,8 +26,8 @@ answer_2 <- "Open during daytime"
 
 results <-
     c(
-        rep(answer_1, 42),
-        rep(answer_2, 33)
+        rep(answer_1, 49),
+        rep(answer_2, 39)
     )
 
 last_date <-
@@ -62,7 +62,7 @@ chi <- chisq.test(
 
 params <- broom::tidy(chi)
 
-note_table <- as_tibble(table(results))
+note_table <- as_tibble(table(results)) %>% bind_rows(tibble(results = "", n = sum(.$n)))
 
 sign <- ifelse(params$p.value < .05, "", "not ")
 pval <- scales::pvalue(params$p.value)
@@ -266,29 +266,29 @@ errbars <-
 mean <- .5 * length(results)
 sd <- sqrt(.5 * (1- .5) * length(results))
 
-p.value <- pnorm((sum(results == answer_1) - mean)/sd, lower.tail = FALSE)
-pval <- scales::pvalue(p.value)
+# p.value <- pnorm((sum(results == answer_1) - mean)/sd, lower.tail = FALSE)
+# pval <- scales::pvalue(p.value)
 
-note <-
-    case_when(
-        pval > 0.05 ~
-            glue::glue(
-                "No option is preferred over the other significantly ",
-                "(p", ifelse(str_detect(pval, "<"), "", "="), "{pval}) "
-            ),
-        sum(results == answer_1) > sum(results == answer_2) ~
-            glue::glue(
-                "There is a preference for {answer_1} ",
-                "(p", ifelse(str_detect(pval, "<"), "", "="), "{pval}) "
-            ),
-        sum(results == answer_1) < sum(results == answer_2) ~
-            glue::glue(
-                "There is a preference for {answer_2} ",
-                "(p", ifelse(str_detect(pval, "<"), "", "="), "{pval})"
-            ),
-        TRUE ~
-            ""
-    )
+# note <-
+#     case_when(
+#         pval > 0.05 ~
+#             glue::glue(
+#                 "No option is preferred over the other significantly ",
+#                 "(p", ifelse(str_detect(pval, "<"), "", "="), "{pval}) "
+#             ),
+#         sum(results == answer_1) > sum(results == answer_2) ~
+#             glue::glue(
+#                 "There is a preference for {answer_1} ",
+#                 "(p", ifelse(str_detect(pval, "<"), "", "="), "{pval}) "
+#             ),
+#         sum(results == answer_1) < sum(results == answer_2) ~
+#             glue::glue(
+#                 "There is a preference for {answer_2} ",
+#                 "(p", ifelse(str_detect(pval, "<"), "", "="), "{pval})"
+#             ),
+#         TRUE ~
+#             ""
+#     )
 
 
 binom_exact_g <-
