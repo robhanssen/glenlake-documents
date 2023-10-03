@@ -26,8 +26,8 @@ answer_2 <- "Open during daytime"
 
 results <-
     c(
-        rep(answer_1, 49),
-        rep(answer_2, 39)
+        rep(answer_1, 56),
+        rep(answer_2, 46)
     )
 
 last_date <-
