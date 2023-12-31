@@ -24,10 +24,11 @@ WHEREAS The South Carolina Homeowners Association Act (“SC HOA Act”; S.C. Co
 
 ## ARC
 
-WHEREAS Article 7.2(e) of the Declaration authorizes the Board and Architectural Review Committee to promulgate written design standards to determine the Community-Wide Standard; and
-WHEREAS, Article 8.1 of the Declaration authorizes the Board, from time to time, without consent of the members, to promulgate, modify, or delete other use restrictions and rules and regulations applicable to the Community;
+WHEREAS Article 7.2(e) of the Declaration authorizes the Board and Architectural Review Committee to promulgate written design standards to determine the Community-Wide Standard; 
 
 ## Rules
+
+WHEREAS, Article 8.1 of the Declaration authorizes the Board, from time to time, without consent of the members, to promulgate, modify, or delete other use restrictions and rules and regulations applicable to the Community;
 
 WHEREAS Article 13.4 of the Declaration grants the Board the authority to adopt reasonable rules and regulations governing the use of the Common Areas;
 
