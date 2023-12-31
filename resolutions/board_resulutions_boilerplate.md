@@ -4,6 +4,12 @@
 
 WHEREAS on March 31, 2005, the Declarant recorded that certain Declaration of Protective Covenants for Glenlake Subdivision in the Office of the Register of Deeds for Spartanburg County, South Carolina (“the Register”), in Deed Book 82-R at Page 862, whereby certain property belonging to the Declarant was submitted to the terms and conditions of said Declaration of Protective Covenants for Glenlake Subdivision (the "Original Declaration");
 
+**Supplement and amendment - long version**
+
+WHEREAS the Original Declaration was supplemented by various Supplemental Declarations to add phase 3A recorded on March 31, 2005 in Deed Book 82-R at Page 926, to add phase 4A recorded on August  24, 2005 in Deed Book 86-N at Page 898, to add phase 2A recorded on September 22, 2005 in Deed Book 83-Z at Page 622, to add phase 3B recorded on September 22, 2005 in Deed Book 83-Z at Page 625, to add phase 5 recorded on November 17, 2005 in Deed Book 84-L at Page 25, to add phase 5A recorded on September 20, 2012 in Deed Book 101-S at Page 996,to add phase 2C recorded on November 15, 2012 in Deed Book 102-A at Page 845, to add phase 4B recorded on January 8, 2013 in Deed Book 102-K at Page 828, to add phase 4C recorded on July 11, 2014 in Deed Book 106-N at Page 476, to add phase 3C recorded on February 27, 2015 in Deed Book 108-H at Page 442, to add phase 5B recorded on April 2, 2015 in Deed Book 108-Q at Page 918; and the Original Declaration was amended by a First Amendment recorded on June 22, 2005 at Deed Book 83-H, Page 27, a Second Amendment recorded on January 18, 2006 at Deed Book 84-W, Page 644, a Corrected Second Amendment recorded February 6, 2006 at Deed Book 85-A, Page 314, a Third Amendment recorded September 14, 2012 in Deed Book 101-P, Page 928 and a Fourth Amendment recorded November 15, 2012 at Deed Book 102-A, Page 842. The Original Declaration and all amendments and supplements thereto shall be collectively referred to herein as the "Declaration";
+
+**Supplement and amendment - short version**
+
 WHEREAS the Original Declaration was supplemented by various Supplemental Declarations to add additional phases to the subdivision and amended by a First Amendment recorded on June 22, 2005 at Deed Book 83-H, Page 27, a Second Amendment recorded on January 18, 2006 at Deed Book 84-W, Page 644, a Corrected Second Amendment recorded February 6, 2006 at Deed Book 85-A, Page 314, a Third Amendment recorded September 14, 2012 in Deed Book 101-P, Page 928 and a Fourth Amendment recorded November 15, 2012 at Deed Book 102-A, Page 842. The Original Declaration and all amendments and supplements thereto shall be collectively referred to herein as the "Declaration";
 
 ## Bylaws
@@ -12,11 +18,11 @@ WHEREAS on March 29, 2005, the Declarant recorded certain Bylaws of the Glenlake
 
 WHEREAS on March 7, 2006, the Association voted to amend the Original Bylaws with the First Amendment To Bylaws to Glenlake Upstate Homeowners Association Inc (“First Amendment”) by a confirmative vote of over 80% of the Total Association Vote by way of the Class B voting membership of the Developer; and this First Amendment to the Bylaws was recorded in the Register on January 10, 2019 in Deed Book 122-K at Page 900;
 
-WHEREAS the whole of the Original Bylaws and the First Amendment will be known as the Amended Bylaws;
+WHEREAS the whole of the Original Bylaws and the First Amendment will be known as the Bylaws;
 
 ## Townhomes
 
-WHEREAS Article 5.2 of the Amended Bylaws details certain rights and duties of the Townhome Committee;
+WHEREAS Article 5.2 of the Bylaws details certain rights and duties of the Townhome Committee;
 
 ## SC HOA Act of 2018
 
@@ -34,7 +40,7 @@ WHEREAS Article 13.4 of the Declaration grants the Board the authority to adopt 
 
 WHEREAS Article 15.1 of the Declaration grants the Board the authority to enforce these rules and regulations;
 
-WHEREAS Article 15.2 of the Declaration grants the Board the authority to exercise self-help remedies, including towing of cars at the expense of its owners in case violations of these rules and regulations are not resolved after reasonable notice;
+WHEREAS Article 15.2 of the Declaration grants the Board the authority to exercise self-help remedies at the expense of the affected owners in case violations of these rules and regulations are not resolved after reasonable notice;
 
 WHEREAS Article 16 of the Declaration authorizes the Board to grant variances;
 
